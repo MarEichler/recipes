@@ -1,0 +1,141 @@
+
+/**** FONTS  ****/ 
+
+@font-face {
+    font-family: Ubuntu;
+    src: url("fonts/Ubuntu.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Ubuntu Light;
+    src: url("fonts/Ubuntu Light.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Ubuntu Mono;
+    src: url("fonts/Ubuntu Mono.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Ubuntu Thin;
+    src: url("fonts/Ubuntu Thin.ttf") format('truetype');
+}
+
+/**** GLOBAL COLORS  ****/
+:root {
+  --darkblue: #415A76; /* dark blue, similar to color in website */ 
+  --liteblue: #CCD7E1; 
+  --verylite: #E7EEF3; 
+  --darkgrey: #383838; /* rgb( 56,  56,  56) */ 
+  --litegrey: #e4e5e7; /* rgb(228, 229, 231) */ 
+  --darkred:  #744953; /*#744953 */  
+  --darkgreen:#008514;  
+  --goldyellow:#A88400; 
+  --bred: #74495320; 
+  --byel: #A8840020; 
+  --bgre: #00851420; 
+}
+
+
+/**** TEXT  ****/
+
+body.main-container {
+  max-width: 1000px !important;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid;
+}
+
+h1 {
+  font-weight: bold; 
+  color: var(--darkblue); 
+  font-size: 2em !important;
+}
+
+
+body {
+  font-family: Ubuntu;   
+  color: var(--darkgrey);
+  font-size: 24px !important; /* default is ~24px */ 
+}
+
+
+
+/**** COLUMNS ****/ 
+
+h2.colheader {
+  text-align: center;
+  font-weight: bold;
+  background-color: var(--liteblue);
+  font-size:    1.5em;
+  padding:      0.25em !important;
+  margin: 0;
+/* 
+  margin-left:  0.25em !important;
+  margin-right: 0.25em !important;
+  margin-top:    0;
+*/ 
+  margin-bottom: 0.5em !important;
+}
+
+.mycolumn {
+  float:left; 
+  width: calc(100%/3 - 1em - 2px); 
+  padding: 0;
+  margin: 0;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  font-size: 0.9em;
+}
+
+
+.mycols2 {
+  column-count: 2;
+  column-gap: 20px;
+  margin-bottom: 0px;
+  border: 1px solid green;
+}
+
+element {
+  -webkit-column-break-inside: avoid;
+  break-inside: avoid;
+}
+
+.mycols3 {
+  column-count: 3;
+  column-gap: 20px;
+  margin-bottom: 0px;
+  border: 1px solid green;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ 
+ div.keeptogether  {
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+
+
+/**** LINK ****/
+
+a {
+  color: var(--darkred) !important; 
+  font-family: Ubuntu Mono;
+}
+
+a:hover {
+  background-color: var(--liteblue);
+  color: var(--darkblue) !important;
+}
+
+
+
+
+
