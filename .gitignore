@@ -2,3 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+
+
+## remove html/pdf except for main items 
+*.html
+*.pdf 
+!recipe_book.html 
+!recipe_book.pdf  
