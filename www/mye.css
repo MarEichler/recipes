@@ -66,7 +66,8 @@ a[href^="http"]:not([class="uri"])::after {
   float: left;
   width: 0;
   white-space: nowrap;
-  content: ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ";
+  /* content: ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "; */ 
+  content: ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "; 
 }
 
 /* Chapter name */
@@ -182,4 +183,31 @@ code {
   body {
     width: calc(var(--pagedjs-width) + 2 * var(--screen-pages-spacing));
   }
+}
+
+
+/*** NEW ITEMS ***/
+/*https://www.w3schools.com/howto/howto_css_two_columns.asp*/ 
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  border: 1px dashed red;
+}
+
+
+.column > ul {
+  padding-left: 10px;
+  color: blue;
+  border: 1px dashed blue;
+}
+
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }

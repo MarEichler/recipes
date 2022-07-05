@@ -26,16 +26,6 @@
   content: string(h1-text);
 }
 
-@page chapter:left {
-  @top-left {
-    content: counter(page);
-  }
-  @top-right {
-    content: element(runningH1Title);
-    white-space: nowrap !important;
-  }
-}
-
 /* right page */
 .running-h2-title {
   position: running(runningH2Title);
@@ -49,12 +39,26 @@
   /* However, this is yet unsupported by Paged.js, see https://gitlab.coko.foundation/pagedjs/pagedjs/-/issues/38 */
   content: string(h2-text);
 }
-@page chapter:right {
-  @top-right {
-    content: counter(page);
+
+
+/* Default left page */ 
+@page chapter:left {
+  @bottom-left {
+    content: "Page " counter(page); 
   }
-  @top-left {
-    content: element(runningH2Title);
+  @bottom-right {
+    content: element(runningH1Title);
+    white-space: nowrap !important;
+  }
+}
+
+/* default right page */ 
+@page chapter:right {
+  @bottom-right {
+    content: "Page " counter(page);
+  }
+  @bottom-left {
+    content: element(runningH1Title);
     white-space: nowrap !important;
   }
 }
@@ -68,9 +72,12 @@
     content: none;
   }
   @bottom-right {
-    content: counter(page);
+    content: "Page " counter(page);
   }
-}
+  @bottom-left {
+    content: none; 
+  }
+} 
 @page :first {
   @top-left {
     content: none;
@@ -87,23 +94,9 @@
   background-repeat: no-repeat;
 }
 
-
-@page :left {
-  @top-left {
-    content: counter(page);
-  }
-}
-
-@page :right {
-  @top-right {
-    content: counter(page);
-  }
-}
-
 /* Front cover */
 .front-cover {
-  /* break-after: recto; */ 
-  break-after: page; /* go to next page after front cover, no blank page */ 
+  break-after: recto; 
 }
 
 /* Front page or title page */
@@ -155,10 +148,15 @@
 
 /* page breaks; aka CSS fragmentation */
 .level1 {
-  /* break-before: recto; 
-  page: chapter; */ 
-  break-before: page; 
+  break-before: recto; 
+  page: chapter; 
 }
+
+/* each level2 is it's own page (for each recipe) */ 
+.level2 {
+  break-before: always; 
+}
+
 .front-matter-container .level1 {
   page: frontmatter;
 }

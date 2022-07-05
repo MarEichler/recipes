@@ -1,26 +1,16 @@
 ---
-title: "Title"
-subtitle: "Subtitle" 
-author: "Author" 
+title: "Soup"
 date: '`r Sys.time()`'
 output: 
   pagedown::html_paged:
-    toc: true
-    toc_depth: 2
     css: 
-    - "www/mye.css"
-    - "www/mye-page.css"
-    - "www/mye-fonts.css"
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
 knit: pagedown::chrome_print
 ---
 
-# Main Courses 
-
-```{r child="ind/soup.Rmd"}
-```
-
-
-## Soup2
+## Soup 
 
 
 <div class="row">
@@ -41,14 +31,4 @@ xyz
 </ul>
 </div>
 </div>
-
-
-
-## Mash Potatoes 
-
-
-a;lsdkfj
-a;lsdfkjl;  
-alsdkfj 
-
 
