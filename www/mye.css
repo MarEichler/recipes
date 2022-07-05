@@ -1,11 +1,15 @@
 :root {
   --background: whitesmoke;
-  --pagedjs-width: 6in;
-  --pagedjs-height: 9in;
+  --pagedjs-width: 8.5in;
+  --pagedjs-height:11in;
   --color-paper: white;
   --color-mbox: rgba(0, 0, 0, 0.2);
   --running-title-width: 2.5in;
   --screen-pages-spacing: 5mm;
+  --pagedjs-margin-right: 0.5in !important;
+  --pagedjs-margin-left: 0.5in !important;
+  --pagedjs-margin-bottom: 0.75in !important; 
+  --pagedjs-margin-top: 0.75in !important; 
 }
 
 html {
@@ -135,6 +139,7 @@ thead, tfoot, tr:nth-child(even) {
 }
 body {
   hyphens: auto;
+  font-size: 12px;
 }
 code {
   hyphens: none;

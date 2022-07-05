@@ -1,6 +1,6 @@
 /* page size */
 @page {
-  size: 6in 9in; /* var(--pagedjs-width) doesn't work in browser when printing */
+  size: 8.5in 11in; /* var(--pagedjs-width) doesn't work in browser when printing */
 }
 @page :blank {
 
@@ -87,9 +87,23 @@
   background-repeat: no-repeat;
 }
 
+
+@page :left {
+  @top-left {
+    content: counter(page);
+  }
+}
+
+@page :right {
+  @top-right {
+    content: counter(page);
+  }
+}
+
 /* Front cover */
 .front-cover {
-  break-after: recto;
+  /* break-after: recto; */ 
+  break-after: page; /* go to next page after front cover, no blank page */ 
 }
 
 /* Front page or title page */
@@ -141,8 +155,9 @@
 
 /* page breaks; aka CSS fragmentation */
 .level1 {
-  break-before: recto;
-  page: chapter;
+  /* break-before: recto; 
+  page: chapter; */ 
+  break-before: page; 
 }
 .front-matter-container .level1 {
   page: frontmatter;
