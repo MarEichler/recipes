@@ -1,0 +1,57 @@
+---
+title: "Pesto"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Pesto
+
+<span class="mh">Servings:</span> 2-3 servings
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>Large bunch of basil (3-4 cups of leaves)<br><i>The fresher the better</i></li>
+  <li>3 medium cloves of garlic</li>
+  <li>&frac12; cup pine nuts</li>
+  <li>1 cup freshly grated Parmesean<br><i><a href="https://shop.violifefoods.com/just-like-parmesan" target="_blank">Violife</a></i></li>
+  <li>2-3 TBSP olive oil</li>
+  <li>8oz of pasta</li>
+  <li><i>Optional:</i> 1 &frac12; cups of haved cherry tomatoes</li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Put into a food processor: 
+    <ul>
+      <li>Large bunch of basil</li>
+      <li>3 medium cloves of garlic</li>
+      <li>&frac13; cup pine nuts, set remaining aside for serving</li>
+      <li>&frac34; cup grated Parmesan, set remaining aside for serving</li>
+    </ul>Process for 30-60 seconds until evenly chopped<br><i>May want to process in sections</i>
+  </li>
+  <li>Put basil mixture into bowl and cover with 2-3 TBSP olive oil, let soak for at least 5 minutes</li>
+  <li>Stir into hot pasta<br><i>
+    I like to stir in the pesto to hot pasta just out of the pot, I think it helps 'blanch' the pesto or something, idk but I think the basil tastes better after stirring it into hot pasta</i></li>
+  <li>Eat warm or set aside to cool to room temperature<br>Prior to serving, add:
+    <ul>
+      <li>Remaining whole pine nuts</li>
+      <li>Remaining grated Parmesan</li>
+      <li>1&frac12; cups of haved cherry tomatoes</li>
+    </ul>
+  </li>
+</ol>
+</div>
+
+
+<span class="mh">Source:</span>  
+<a href = "https://www.epicurious.com/recipes/member/views/how-to-make-pesto-like-an-italian-grandmother-52149601" target="_blank">Vegan-ize epicurious</a>

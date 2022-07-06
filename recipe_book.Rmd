@@ -13,15 +13,53 @@ output:
 knit: pagedown::chrome_print
 ---
 
-# Main Courses 
+# Main 
 
 ```{r child="main/alfredo.Rmd"}
+```
+
+```{r child="main/bakedtofu.Rmd"}
+```
+
+```{r child="main/cheezymac.Rmd"}
+```
+
+```{r child="main/eggsbasil.Rmd"}
 ```
 
 ```{r child="main/mangobluequinoa.Rmd"}
 ```
 
-```{r child="main/veggiechili.Rmd"}
+```{r child="main/mushroomstroganoff.Rmd"}
 ```
 
+```{r child="main/pesto.Rmd"}
+```
+
+```{r child="main/shepherdspie.Rmd"}
+```
+
+
+# Soup  
+
+```{r child="soup/soulsoothingpeanutstew.Rmd"}
+```
+
+```{r child="soup/spicytofustew.Rmd"}
+```
+
+```{r child="soup/threesisterssoup.Rmd"}
+```
+
+```{r child="soup/veggiechili.Rmd"}
+```
+
+
+# Sides 
+
+```{r child = "side/hummus.Rmd"}
+```
+
+```{r child = "side/refriedbeans.Rmd"}
+```
 

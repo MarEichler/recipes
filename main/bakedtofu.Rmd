@@ -1,0 +1,43 @@
+---
+title: "Baked Tofu"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Baked Tofu
+
+<span class="mh">Servings:</span> 4 servings
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>1 block (12-15oz) extra-firm tofu</li>
+  <li>1 TBSP olive oil</li>
+  <li>1 TBSP tamari</li>
+  <li>1 TBSP cornstarch or arrowroot starch</li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Preheat the oven to 400 degrees F and line a large, rimmed baking sheet with parchment paper to prevent tofu from sticking.</li>
+  <li>To prepare the tofu: Drain the tofu and use your palms to gently squeeze out some water. Cube tofu.</li>
+  <li>Line a cutting board with a lint-free towel or paper towels, then arrange the tofu in an even layer on the towels.  Fold the towels over the cubed tofu, then place something heavy on top (like a cutting board, pan, can of tomatoes) to help the tofu drain. Let the tofu rest for at least 10 minutes (preferably more than 30 minutes).</li>
+  <li>Transfer pressed tofu to medium mixing bowl and drizzle with olive oil and tamari.  Toss to combine.  Sprinkle in the starch over the tofu, and toss the tofu until starch is evenly coated. </li>
+  <li>Arrange the tofu on a baking sheet in an even layer.  Bake for 25-30 minutes, tossing the tofu halway, until tofu is deeply golden on the edges.</li>
+</ol>
+</div>
+
+
+<span class="mh">Notes:</span> Crispy tofu, often used in peanut stir fry dish
+
+<span class="mh">Source:</span>
+<a href = "https://cookieandkate.com/how-to-make-crispy-baked-tofu/print/24123/" target="_blank">Cookie and Kate</a>

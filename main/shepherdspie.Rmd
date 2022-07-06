@@ -1,0 +1,81 @@
+---
+title: "Shepherd's Pie"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Shepherd's Pie
+
+<span class="mh">Servings:</span> 2 servings 
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>Medium carrot, peeled and diced</li>
+  <li>2 cloves garlic, diced</li>
+  <li>Medium yellow onion, diced</li>
+  <li>&frac14; lbs white mushrooms</li>
+  <li>&frac34; cups green lentils</li>
+  <li>1&frac34; cups veggie broth
+    <ul>
+      <li>1&frac12; cups for lentils</li>
+      <li>&frac14; cups for mashed potatoes</li>
+    </ul>
+  </li>
+  <li>&frac1/2 - 1 cup frozen peas</li>
+  <li>Potatoes, a shit ton yellow or white</li>
+  <li>Black pepper</li>
+  <li>2-3 TBSP vegan butter</li>
+  <li>Salt and pepper</li>
+  <li>Thyme, dried or fresh</li>
+  <li>Paprika for serving</li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span>  
+<b>Mashed Potatoes</b>
+<div class="my2cols">
+<ol>
+  <li>Peel and quarter the potatoes</li>
+  <li>Boil water in medium pan, add a dash of salt and then the diced potatoes</li>
+  <li>Reduce heat to medium and cook potatoes until they are tender when pierced with a knife, about 15 minutes</li>
+  <li>Drain potatoes and put back into pan</li>
+  <li>Add to the potatoes and mash:
+    <ul>
+      <li>1-2 TBSP vegan butter</li>
+      <li>&frac14; cups veggie broth</li>
+      <li>salt and pepper</li>
+    </ul>
+  </li>
+  <li>Cover and put into oven to keep warm</li>
+</ol>
+</div>
+<b>Vegetables and Lentils</b>  
+<div class="my2cols">
+<ol>
+  <li>Preheat pan over medium heat</li>
+  <li>Once pan is hot, melt 1 TBSP vegan butter and swirl to coat bottom of the pan</li>
+  <li>Add the following to pan:
+    <ul>
+      <li>Medium carrot, peeled and diced</li>
+      <li>2 cloves garlic, diced</li>
+      <li>Medium yellow onion, diced</li>
+    </ul>Season with salt and pepper<br>Cook, stirring frequently until veggies soften (2-3 min)
+  </li>
+  <li>Add mushrooms to pan and cook until mushrooms soften (2-3 min)</li>
+  <li>Add lentils and 1&frac12; cups veggie broth to the pan.  Season with salt, pepper and thyme.</li>
+  <li>Bring mixture to a boil, then reduce heat to a simmer, cover with a lid, and cook until lentils are tender (15-20 minutes)</li>
+  <li>Stir in green peas, heat through</li>
+  <li> Serve on top of mashed poatoes with paprika</li>
+</ol>
+</div>
+
+
+<span class="mh">Source:</span> Can't remember original source

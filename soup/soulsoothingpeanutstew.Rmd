@@ -1,0 +1,86 @@
+---
+title: "Soul Soothing Peanut Stew"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Soul Southing Peanut Stew
+
+<span class="mh">Servings:</span> 6 servings (each approximately 3 cups)
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>1 tsp olive oil</li>
+  <li>3 cloves garlic</li>
+  <li>Medium sweet onion, diced</li>
+  <li>Red bell pepper, diced</li>
+  <li>Jalapeno, seeded and diced</li>
+  <li>Large sweet potato, peeled and cubed</li>
+  <li>28oz can of diced tomatoes</li>
+  <li>4 cups vegetable broth</li>
+  <li>1&frac12; TBSP chili powder</li>
+  <li><i>Optional</i>: 1&frac14; cayenne pepper</li>
+  <li>&frac13; cup peanut butter</li>
+  <li>14oz can chickpeas (&frac12; cup dried)</li>
+  <li>1 bunch spinach (3-5 cups)</li>
+  <li>Salt and peper to taste</li>
+  <li>Fresh cilantro and peantus for serving</li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Heat oil in large soup pot over medium heat</li>
+  <li>Add to the pot: 
+    <ul>
+      <li>Medium sweet onion, diced</li>
+      <li>3 cloves garlic</li>
+    </ul>Saute for 5 minutes, until onion is translucent 
+  </li>
+  <li>Add to the pot:
+    <ul>
+      <li>Red bell pepper, diced</li>
+      <li>Jalapeno, diced</li>
+      <li>Large sweet potatoe, cubed</li>
+      <li>28oz can of diced tomatoes</li>
+    </ul>Simmer for 5 minutes
+  </li>
+  <li>In a bowl, whisk
+    <ul>
+      <li>&frac13; cup peanut butter</li>
+      <li>1 cup veggie broth</li>
+    </ul>After mixed, add to pot
+  </li>
+  <li>Add to the pot:
+    <ul>
+      <li>3 cups veggie broth</li>
+      <li>1&frac12; TBSP chili powder</li>
+      <li>1&frac14; tsp cayenne pepper, if using</li>
+    </ul>
+  </li>
+  <li>Cover soup pan iwth lid and reduce heat to medium-low. Simmer for 10-20 minutes, or until sweet potato is fork-tender.</li>
+  <li>Stir in:
+    <ul>
+      <li>Chickpeas</li>
+      <li>Spinach</li>
+    </ul>Stir until spinach is cooked
+  </li>
+  <li>Season with salt and pepper to taste</li>
+  <li>Serve with cilantro and peantus sprinkled on top</li>
+</ol>
+</div>
+
+
+<span class="mh">Notes:</span> Good with brown rice
+
+<span class="mh">Source:</span>
+<a href = "https://ohsheglows.com/book/" target="_blank">Oh She Glows by Angela Liddon, 2014</a>

@@ -1,0 +1,64 @@
+---
+title: "Cheezy Mac"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Cheezy Mac
+
+<span class="mh">Servings:</span> 2-4 servings
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>12-16oz pasta</li>
+  <li>1 cup yellow potatos, peeled and diced</li>
+  <li>&frac14; cup carrots, peeled and diced</li>
+  <li>&frac13; cup onions, peeled and diced</li>
+  <li>&frac34; cup water (from pot of boiled veggies)</li>
+  <li>&frac12; cup raw cashews</li>
+  <li>&frac14; cup coconut milk</li>
+  <li>2 TBSP nutritional yeast</li>
+  <li>1 TBSP lemon juice</li>
+  <li>&frac34; tsp salt</li>
+  <li>&frac14; tsp garlic powder</li>
+  <li>&frac18; tsp paprika</li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Boil carrots, potato, and onion for ~10 minutes until fork tender</li>
+  <li>Blend all ingredients (except pasta) into blender on high for 45-60 seconds</li>
+  <li>Pour over and mix with pasta</li>
+  <li>Additions:
+    <ul>
+      <li>Truffle sauce</li>
+      <li>Frozen peas/broccoli</li>
+    </ul>
+  </li>
+</ol>
+</div>
+
+
+<span class="mh">Source:</span> Can't find original source, had it hand-written down and made so often I never need to reference the original source
+
+
+<span class="mh">To make Queso Sauce add:</span>  
+<div class="my2cols">
+<ul>
+  <li>&frac12; tsp chili powder</li>
+  <li>&frac12; tsp cumin</li>
+  <li>4oz can of green chilis</li>
+  <li>Black bean and cilantro (after blending)</li>
+</ul>
+</div>
+

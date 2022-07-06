@@ -1,0 +1,48 @@
+---
+title: "Eggs and Basil"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Eggs and Basil
+
+<span class="mh">Servings:</span> 2 servings (usually double)
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>1 TBSP olive oil</li>
+  <li>6oz (2 servings) of vegan eggs (like Just Egg)</li>
+  <li>2 cups fresh basil leaves</li>
+  <li>&frac14; cup green onions, chopped</li>
+  <li>&frac14; tsp sesame oil</li>
+  <li>Salt</li>
+
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Heat 1 TBSP olive oil in pan</li>
+  <li>Add 2 cups of fresh basil leaves to pan, quickly sitr until basi leaves have cooked down</li>
+  <li>Add cooked basil to a bowl</li>
+  <li>Add 6oz of vegan eggs to the bowl with basil and stir together</li>
+  <li>Add &frac14; cup green onions, chopped to pan (add more oil if needed).  Stir and cook for 2-3 minutes</li>
+  <li>Add the eggs and basil mix to the pan.  Do not stir for about 60 seconds, then stir and cook like scrambed eggs</li>
+  <li>Add &frac14; tsp of sesame oil and salt to pan, stir until even.</li>
+</ol>
+</div>
+
+
+<span class="mh">Notes:</span> great on toasted break with some vegan butter
+
+<span class="mh">Source:</span>  
+<a href = "https://mamaleeblog.wordpress.com/2016/10/28/basil-leaves-fried-free-range-eggs-taiwanese-dish/" target="_blank">Vegan-ize Fun Fun Cook</a>
