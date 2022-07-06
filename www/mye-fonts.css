@@ -23,6 +23,7 @@
 
 body {
   font-family: Ubuntu, Sans-serif;
+    font-size: 13px;
 }
 blockquote {
   font-family: Ubuntu Thin, serif;
@@ -33,4 +34,10 @@ code {
 
 pre, code {
   font-size: .95em;
+}
+
+
+h2 {
+  margin-top: 0em;
+  padding-top: 0em;
 }

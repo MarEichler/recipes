@@ -1,7 +1,6 @@
 ---
-title: "Title"
-subtitle: "Subtitle" 
-author: "Author" 
+title: "MYE Recipes"
+subtitle: "Recipes that I use on a regular basis" 
 date: '`r Sys.time()`'
 output: 
   pagedown::html_paged:
@@ -16,39 +15,13 @@ knit: pagedown::chrome_print
 
 # Main Courses 
 
-```{r child="ind/soup.Rmd"}
+```{r child="main/alfredo.Rmd"}
 ```
 
+```{r child="main/mangobluequinoa.Rmd"}
+```
 
-## Soup2
-
-
-<div class="row">
-<div class="column">
-<p>xyz in a paragraph</p>
-xyz
-<ul>
-<li>one</li>
-<li>two</li>
-<li>three</li>
-</ul>
-</div>
-<div class="column">
-<ul>
-<li>one</li>
-<li>two</li>
-<li>three</li>
-</ul>
-</div>
-</div>
-
-
-
-## Mash Potatoes 
-
-
-a;lsdkfj
-a;lsdfkjl;  
-alsdkfj 
+```{r child="main/veggiechili.Rmd"}
+```
 
 

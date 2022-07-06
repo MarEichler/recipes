@@ -1,0 +1,69 @@
+---
+title: "Soup"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Alfredo 
+
+<span class="mh">Servings:</span> 2-3 Servings (makes approximately 3-4 cups of sauce) 
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>16 oz fettuccine or pasta of choice<br><i>we often use <a href="https://www.tinkyada.com/" target = "_blank">Tinkyada</a></i></li>
+  <li>1.5 cup raw cashews</li>
+  <li>1-2 TBSP olive oil</li>
+  <li>&frac12; medium sweet onion, chopped</li>
+  <li>6 cloves of garlic, minced</li>
+  <li>2 cups unsweetened almond milk<br><i>cashew/soy/coconut also fine</i></li>
+  <li>&frac14; cup nutritional yeast</li>
+  <li>1 tsp lemon juice</li>
+  <li>1 tsp salt, or to taste</li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Cook pasta while making the sauce</li>
+  <li>Bring 4 cups of water to boil.  Pour hot water over the 1.5 cups of raw cashews and let soak for 5 minutes</li>
+  <li>Heat 1-2 TBSP olive oil over medium heat and add:
+    <ul>
+      <li>&frac12; medium sweet onion, chopped</li>
+      <li>6 cloves of garlic, minced</li>
+    </ul></li>
+  <li>Drain the cashews and discard the soaking water and add cashews to the blender </li>
+  <li>Add the following to the blender:
+    <ul>
+      <li>Cooked onions and garlic</li>
+      <li>2 cups unsweetened almond milk</li>
+      <li>&frac14; cup nutritional yeast</li>
+      <li>1 tsp lemon juice</li>
+      <li>1 tsp salt</li>
+    </ul></li>
+  <li>Blend on high for approximately 1 min, or until sauce is creamy</li>
+  <li>Pour the sauce over the pasta and stir</li>
+  <li>Continue to heat the mixed pasta and sauce on low heat if adding more veggies<br>
+   <i>Possible Additions</i>
+   <ul> 
+      <li>Cooked peas</li>
+      <li>Kale</li>
+      <li>Spinach</li>
+      <li>Mushrooms</li>
+      <li>Freshly grated Parmesan (like Violife)</li>
+   </ul></li>
+   <br><br>
+</ol>
+</div>
+
+
+
+<span class="mh">Source:</span> <a href = "https://www.noracooks.com/vegan-alfredo-sauce/" target="_blank">Nora Cooks</a>

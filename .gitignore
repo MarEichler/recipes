@@ -9,3 +9,7 @@
 *.pdf 
 !recipe_book.html 
 !recipe_book.pdf  
+
+
+## ignore 
+*zzIGNORE*

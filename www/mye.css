@@ -203,6 +203,11 @@ code {
   border: 1px dashed blue;
 }
 
+.column > ol {
+  padding-left: 10px;
+  color: blue;
+  border: 1px dashed blue;
+}
 
 
 /* Clear floats after the columns */
@@ -210,4 +215,25 @@ code {
   content: "";
   display: table;
   clear: both;
+}
+
+
+/* https://www.w3schools.com/css/css3_multiple_columns.asp */ 
+.my2cols {
+  column-count: 2;
+}
+
+
+/*remove extra line added at begining of first column */ 
+/* .my2cols > ol > li:first-child {margin-top: -1em !important; }
+.my2cols > ul > li:first-child {margin-top: -1em !important; } */  
+ol > li { margin-bottom: 0.75em; }
+ol, ul {margin: 0px;}
+ol, ul > li {line-height: 1.5em; } 
+
+.mh {
+  text-transform: uppercase; 
+  font-family: Ubuntu Light, serif;
+  font-size: 1.1em;
+  line-height: 2em;
 }
