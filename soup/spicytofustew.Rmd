@@ -22,11 +22,11 @@ knit: pagedown::chrome_print
   <li>Small onion, sliced</li>
   <li>&frac12; cup sliced scallion or green onions</li>
   <li>2-3 cloves of garlic, minced</li>
-  <li>2 TBSP gochugaro (korean hot pepper powder)</li>
+  <li>2 TBSP gochugaro (Korean hot pepper powder)</li>
   <li>2&frac12; TBSP tamari</li>
   <li>&frac34; cup vegan kimchi</li>
   <li>Medium zucchini, cubed</li>
-  <li>3 cups of mushrooms<br>mix of enoki, king oaster, shiitake</li>
+  <li>3 cups of mushrooms<br>mix of enoki, king oyster, shiitake</li>
   <li>3 cups water (or veggie broth)</li>
   <li>&frac12; tsp salt</li>
   <li>1 pack silken tofu, cut into cubes</li>
@@ -55,7 +55,7 @@ knit: pagedown::chrome_print
     <ul>
       <li>2-3 cloves of garlic, minced</li>
       <li>2 TBSP gochugaro (Korean hot pepper powder)</li>
-      <li>2&frac12; TBSP Tamari</li>
+      <li>2&frac12; TBSP tamari</li>
     </ul>Stir and cook for 2 minutes 
   </li>
   <li>Add &frac34; cup vegan kimchi<br>Stir and cook for 2-3 minutes</li>

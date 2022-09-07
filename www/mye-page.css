@@ -43,6 +43,9 @@
 
 /* Default left page */ 
 @page chapter:left {
+  @top-left{
+    content: none
+  }
   @bottom-left {
     content: "Page " counter(page); 
   }
@@ -54,6 +57,9 @@
 
 /* default right page */ 
 @page chapter:right {
+  @top-left{
+    content: none
+    }
   @bottom-right {
     content: "Page " counter(page);
   }
@@ -96,7 +102,8 @@
 
 /* Front cover */
 .front-cover {
-  break-after: recto; 
+  /*break-after: recto; */
+  break-after: avoid;
 }
 
 /* Front page or title page */

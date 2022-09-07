@@ -75,7 +75,7 @@ knit: pagedown::chrome_print
     </ul>Stir until spinach is cooked
   </li>
   <li>Season with salt and pepper to taste</li>
-  <li>Serve with cilantro and peantus sprinkled on top</li>
+  <li>Serve with cilantro and peanuts sprinkled on top</li>
 </ol>
 </div>
 

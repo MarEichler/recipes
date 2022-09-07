@@ -1,0 +1,61 @@
+---
+title: "Kale Salad"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Kale Salad
+
+<span class="mh">Servings:</span> 4-6 servings
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>10 cups kale, cut finely</li>
+  <li>1 cup dried cranberries</li>
+  <li>2 garlic cloves, minced</li>
+  <li>&frac14;-&frac13; cup lemon juice</li>
+  <li>2 TBSP olive oil</li>
+  <li>&frac13; tsp salt</li>
+  <li>Dash of pepper</li>
+  <li>1 cup halved pecans, toasted</li>
+  <li>1&frac12; TBSP nutritional yeast</li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Make dressing by whisking together
+    <ul>
+      <li>2 garlic cloves, minced</li>
+      <li>&frac14;-&frac13; cup lemon juice</li>
+      <li>2 TBSP olive oil</li>
+      <li>&frac13; tsp salt</li>
+      <li>Dash of pepper</li>
+    </ul>
+  </li>
+    <li>Make pecan Parmesan by using a food processor to finally chop and mix:
+    <ul>
+      <li>1 cup halved pecans, toasted</li>
+      <li>1&frac12; TBSP nutritional yeast</li>
+    </ul>
+  </li>
+  <li>Combine kale, cranberries with dressing and toss</li>
+  <li>Finally add pecan Parmesan and toss</li>
+</ol>
+</div>
+
+
+<span class="mh">Notes:</span> Good on Thanksgiving or Christmas (winter celebration); lasts for a few days in refrigerator 
+
+<span class="mh">Source:</span>   
+Similar to 
+<a href = "https://www.food.com/recipe/the-best-shredded-kale-salad-with-pecan-parmesan-and-cranberries-514710" target="_blank">Food.com</a>

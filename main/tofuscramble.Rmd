@@ -1,0 +1,63 @@
+---
+title: "Ind Recipe"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Tofu Scrample
+
+<span class="mh">Servings:</span> 4 servings (each approximately 1.5 cups)
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>2 tsp olive oil</li>
+  <li>2 cloves garlic, minced</li>
+  <li>2-3 shallots, diced</li>
+  <li>8oz cremini mushrooms, diced</li>
+  <li>Red bell pepper, diced</li>
+  <li>1 TBSP nutritional yeast</li>
+  <li>&frac14; tsp paprika<br><i>Smoked paprika is best</i></li>
+  <li>&frac12; tsp salt</li>
+  <li>1 package extra firm tofu</li>
+  <li>3 cups spinach</li>
+  <li>Pepper to taste</li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Heat 1 TBSP olive oil in large pan over medium heat</li>
+  <li>Add to the pan:
+    <ul>
+      <li>2 cloves garlic, minced</li>
+      <li>2-3 shallots, diced</li>
+      <li>8oz cremini mushrooms, diced</li>
+    </ul>Saute for 5-10 minutes, until most of the liquid from mushrooms have evaporated
+  </li>
+  <li>Add red bell pepper, diced and saute for a few more minutes</li>
+  <li>Add:
+    <ul>
+      <li>1 TBSP nutritional yeast</li>
+      <li>&frac14; tsp paprika</li>
+      <li>&frac12; tsp salt</li>
+    </ul>Stir in thoroughly
+  </li>
+  <li>Crumple tofu into pan and and stir in</li>
+  <li>Add spinach and stir until the spinach has cooked down</li>
+</ol>
+</div>
+
+
+<span class="mh">Notes:</span> Good with toast or potatoes. 
+
+<span class="mh">Source:</span>
+<a href = "https://ohsheglows.com/book/" target="_blank">Oh She Glows by Angela Liddon, 2014</a>

@@ -1,7 +1,6 @@
 ---
-title: "MYE Recipes"
-subtitle: "Recipes that I use on a regular basis" 
-date: '`r Sys.time()`'
+title: "MYE Recipes<br><span style='font-size: 0.67em'>Recipes that I use on a regular basis<span>" 
+date: "<div style='text-align:center'>`r Sys.time()`</div>"
 output: 
   pagedown::html_paged:
     toc: true
@@ -33,14 +32,23 @@ knit: pagedown::chrome_print
 ```{r child="main/mushroomstroganoff.Rmd"}
 ```
 
+```{r child="main/nocooktomatosauce.Rmd"}
+```
+
 ```{r child="main/pesto.Rmd"}
 ```
 
 ```{r child="main/shepherdspie.Rmd"}
 ```
 
+```{r child="main/tofuscramble.Rmd"}
+```
+
 
 # Soup  
+
+```{r child="soup/chikenchili.Rmd"}
+```
 
 ```{r child="soup/soulsoothingpeanutstew.Rmd"}
 ```
@@ -55,11 +63,24 @@ knit: pagedown::chrome_print
 ```
 
 
-# Sides 
+# Side
+
+```{r child = "side/garlicbread.Rmd"}
+```
 
 ```{r child = "side/hummus.Rmd"}
+```
+
+```{r child = "side/kalesalad.Rmd"}
+```
+
+```{r child = "side/potatoleaves.Rmd"}
 ```
 
 ```{r child = "side/refriedbeans.Rmd"}
 ```
 
+# Dessert 
+
+```{r child = "dessert/peanutbuttercookies.Rmd"}
+```
