@@ -7,8 +7,8 @@
 ## remove html/pdf except for main items 
 *.html
 *.pdf 
-!index.html 
-!recipe_book.pdf  
+!index.html
+!recipe_book_print.pdf  
 
 
 ## ignore 
