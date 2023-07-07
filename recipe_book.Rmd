@@ -19,6 +19,9 @@ output:
 ```{r child="main/bakedtofu.Rmd"}
 ```
 
+```{r child="main/bibimbap.Rmd"}
+```
+
 ```{r child="main/cheezymac.Rmd"}
 ```
 
@@ -34,10 +37,19 @@ output:
 ```{r child="main/nocooktomatosauce.Rmd"}
 ```
 
+```{r child="main/peanutstirfry.Rmd"}
+```
+
 ```{r child="main/pesto.Rmd"}
 ```
 
+```{r child="main/pestognoochi.Rmd"}
+```
+
 ```{r child="main/shepherdspie.Rmd"}
+```
+
+```{r child="main/spagandmeatballs.Rmd"}
 ```
 
 ```{r child="main/tofuscramble.Rmd"}
@@ -82,4 +94,7 @@ output:
 # Dessert 
 
 ```{r child = "dessert/peanutbuttercookies.Rmd"}
+```
+
+```{r child = "dessert/pistachiocookies.Rmd"}
 ```

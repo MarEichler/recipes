@@ -29,7 +29,7 @@ knit: pagedown::chrome_print
       <li>&frac14; cups for mashed potatoes</li>
     </ul>
   </li>
-  <li>&frac1/2 - 1 cup frozen peas</li>
+  <li>&frac12; - 1 cup frozen peas</li>
   <li>Potatoes, a shit ton yellow or white</li>
   <li>Black pepper</li>
   <li>2-3 TBSP vegan butter</li>

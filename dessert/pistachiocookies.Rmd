@@ -1,0 +1,51 @@
+---
+title: "Pistachio Cookies"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Pistachio Cookies
+
+<span class="mh">Servings:</span> 6 cookies 
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>~3 TBSP raw pistachios, peeled</li>
+  <li>6 TBSP white rice flour</li>
+  <li>2 TBSP dark maple syrup</li>
+  <li>2 TBSP smooth and creamy natural casehw butter</li>
+  <li>&frac14; almond extract</li>
+  <li>&frac18; tsp salt</li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Pre-heat oven to 350F. Line a small cookie sheet with parchment paper. Set aside.</li>
+  <li>Briefly process the pistachios for the coating in your food processor to form little crushed pieces. Remove the chopped pistachios from the processor and place them in a shallow bowl. Set aside. (Don't worry if you have tiny bits or pistachio dust left behind in the food processor).</li>
+  <li>Process all cookie ingredients in the food processor until the mixture begins to form a ball. Remove this ball from the processor and shape into a ball* of dough with your hands.</li>
+  <li>Divide this mixture into 6 balls of dough. Roll each one first into a ball, then flatten with your fingers to form a little "hockey puck" shape. Roll one of these bits of dough in the crushed pistachios, first just running the sides of the cookie over the pistachios and then only the top part of the cookie -- you'll need to press the dough into the pistachios very lightly as you go to make the pistachio pieces stick (note: if you press too hard you, the shape of your cookie can become distorted). Place the crusted cookie on the prepared baking tray. Repeat with the remaining cookies.</li>
+  <li>Bake in a pre-heated oven for approx. 9 mins. Remove from the oven and place on a cooking rack to cool off a little. Enjoy!</li>
+</ol>
+</div>
+
+*The texture of the dough can be different depending on the cashew butter used. For example sometimes you might get a batch that’s more “oily” other times one that’s more dry + brands vary, etc. The dough should be soft and pliable. But if the mixture feels too sticky at this point, add a bit more flour (1 teaspoon at a time) and process again to incorporate; if too dry, add a bit more maple syrup or cashew butter.
+
+
+
+<span class="mh">Source:</span>
+<a href = "https://www.unconventionalbaker.com/gluten-free-vegan-pistachio-cookies/" target="_blank">unconventional baker<br></a>  
+
+Prep time: 20 minutes  
+Cook time: 9 minutes  
+
+Total Time 30 minutes 

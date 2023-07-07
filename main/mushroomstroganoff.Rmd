@@ -23,15 +23,15 @@ knit: pagedown::chrome_print
   <li>1 large white onion, diced</li>
   <li>10oz cremini mushrooms, sliced thinly</li>
   <li>3 cloves garlic</li>
-  <li>1 cup vegan sour cream or vegan Greek yogurt</li>
-  <li>4-5 large portobello mushrooms, thickly sliced
+  <li>&frac14; - &frac12; cup vegan sour cream or vegan Greek yogurt</li>
+  <li>4-5 large portobello mushrooms, thickly sliced7
   <li>2 cups vegan vegetable broth<br><https://www.betterthanbouillon.com/></li>
-  <li>1 TBSP vegan Worcestershire sauce</li>
-  <li>Tamari sauce to taste</li>
+  <li>&frac12; TBSP Rice vinegar</li>
+  <li>&frac12; TBSP Tamari </li>
   <li>Red wine to taste</li>
   <li>1 TBSP fresh rosemary, chopped</li>
   <li>&frac12; tsp salt</li>
-  <li>3 TBSP gluten-free flour (to thinken sauce)</li>
+  <li>3 TBSP gluten-free flour (to thicken sauce)</li>
   <li>2 TBSP fresh parsely, chopped</li>
 </ul>
 </div>
@@ -53,7 +53,8 @@ knit: pagedown::chrome_print
   <li>In an empty bowl mix:
     <ul>
       <li>1 cup veggie broth</li>
-      <li>1 TBSP Worcestershire sauce</li>
+      <li>&frac12; TBSP rice vinegar</li>
+      <li>&frac12; TBSP tamari</li>
       <li>Splash of red wine</li>
       <li>1 TBSP fresh rosemary, chopped</li>
     </ul>After mixing, add to pan with large portobello mushrooms
@@ -67,8 +68,8 @@ knit: pagedown::chrome_print
   </li>
   <li>Immediately add the mushroom/onion mixture to the pan as well</li>
   <li>Bring mixture to a boil and stir constantly for about 2 minutes</li>
-  <li>Stir in 1 cup sour cream/Greek yogurt, make sure to heat until warm but donot boil<br>
-  <i>If need more salty flavor add Tamari</i></li>
+  <li>Stir in &frac14; - &frac12; cup sour cream/Greek yogurt, make sure to heat until warm but do not boil<br>
+  <i>If tastes too sour, add some sesame oil</i></li>
   <li>Gently mix mushroom mixture with pasta, toss with 2 TBSP fresh parsley, chopped</li>
 </ol>
 </div>

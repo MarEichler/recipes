@@ -1,0 +1,59 @@
+---
+title: "Bibimbap"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Bibimbap 
+
+<span class="mh">Servings:</span> 2 servings
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>2 servings of cooked rice (for special occasians I use white rice, for regular meal I use brown rice)</li>
+  <li>1 medium zucchini, cut into match sticks</li>
+  <li>1 medium carrot, cut into match sticks</li>
+  <li>8 oz mushrooms (crimini or shiitake), thinly slice mushroom caps</li>
+  <li>2-3 handfulls of baby kale or spinach</li>
+  <li>1 block extra firm tofu, cubed *sprinkled wtih salt*</li>
+  <li>2-3 cloves garlic, minced</li>
+  <li>salt</li>
+  <li>sesame oil</li>
+  <li>cooking oil (olive oil, coocnut oil)</li>
+  <li>Gochujang sauce, I really like the <a href = "https://weloveyou.com/products/sweet-spicy-korean-gochujang-chili-sauce/" target = "_blank">We Love You</a> brand</li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Cook rice, put rice into oven safe bowls and place into oven at 180 degrees</li>
+  <li>Cut up veggies, after cutting up zucchini sprinkle some salt on them and let sit for 10-15 minutes</li>
+  <li>Cook zucchini: heat pan with oil add zucchini and half of the minced garlic, saute for 2-3 minutes, stir in sesame oil<br>take bowls out of oven, add zucchini and put bowls back into oven</li>
+  <li>Cook carrots: heat pan with oil and add carrots, saute for 2-3 minutes (cook time will depend on how small pieces are)<br>take bowls out of oven, add carrots and put bowls back into oven</li>
+  <li>Cook mushrooms: heat pan with oil and add mushrooms, saute until liquid is gone from mushrooms (2-3 minutes)<br>take bowls out of oven, add mushrooms and put bowls back into oven</li>
+  <li>Cook kale/spinach: heat pan with oil and lightly saute kale/spinach (1-2 minutes)<br>take bowls out of oven, add kale/spinach and put bowls back into oven</li>
+  <li>Fry tofu: heat oil in pan on medium, while waiting sprinkle tofu with salt, once oil is hot add tofu to pan, pan-fry until all sides are lightly golden (5-10 minutes?)</li>
+  <li>take bowls out of oven and place onto cool plates, add tofu to bowls</li>
+  <li>lightly drizzle sesame oil over the mixture</li>
+  <li>Add garnishes (kimichi and Gochugan sauce) and eat</li>
+</ol>
+</div>
+
+
+<span class="mh">Source:</span>  
+<a href = "https://www.koreanbapsang.com/tofu-bibimbap/" target="_blank">Korean Bapsang by Hyosun</a>
+
+
+Prep: 30 minutes  
+Cook: 30 minutes 
+
+Total A-Z time: 1 hour 

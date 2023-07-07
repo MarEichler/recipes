@@ -1,0 +1,61 @@
+---
+title: "Peanut Tofu Stir-Fry"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Peanut Tofu Stir-Fry
+
+<span class="mh">Servings:</span> 2 servings 
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>Baked Tofu (see recipe); or can fry tofu in oil</li>
+  <li>2 cups of Broccoli cut into pieces</li>
+  <li>1-2 medium carrots, sliced</li>
+  <li>4 leafs of dino kale</li>
+  <li>olive oil or coconut oil</li>
+  <li>Can also add spinach, bell pepper, other veggeis
+  <li>Peanut sauce (either buy or make homemade, I just eyeball it and taste it to get proportions right)
+    <ul>
+      <li>chili flakes</li>
+      <li>creamy peanut butter</li>
+      <li>tamari</li>
+      <li>rice vinegar</li>
+      <li>maple syrup</li>
+      <li>seaseme oil</li> 
+    </ul>
+  </li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span>  
+<b>Mashed Potatoes</b>
+<ol>
+  <li>make tofu</li>
+  <li>make sauce - I just taste and add until I think its good</li>
+  <li>Add oil to big pot</li>
+  <li>Add broccoli and carrots</li> 
+  <li>Saute for 1-2 minutes</li>
+  <li>Add some water and then add kale on top</li>
+  <li>Cover pot, cook until veggies are soft</li>
+  <li>Add sauce and stir in </li>
+  <li>Add tofu and stir in</li>
+</ol>
+</div>
+
+
+Serve with brown rice 
+
+Prep: 30-40 minutes (cutting up veggies takes awhile)<br>
+Cook: varies (baking tofu, frying tofu, etc.)<br>
+
+Total A-Z time: budget 1.5 hours 

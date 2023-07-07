@@ -1,0 +1,58 @@
+---
+title: "Spaghetti and Meatballs"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Spaghetti and Meatballs
+
+<span class="mh">Servings:</span>2 servings
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>1 TBSP olive oil</li>
+  <li> have an onion, diced </li>
+  <li>3 clove garlic, minced finely</li>
+  <li>2 cups of halved grape or cherry tomoatoes (I like getting the multi-color ones)</li>
+  <li>salt, pepper, basil, oregeno to taste</li>
+  <li>228 g of Bionature Gluten Free Spaghetti</li>
+  <li> 6 Beyond Beef Gluten Free Italian Meatballs</li> 
+  <li> A massive amount of freshly grated Violife parmesean</li> 
+  <li> Rao's marinara pasta sauce</li> 
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Heat water in big pot on high</li>
+  <li>Heat oil in pan on median</li>
+  <li>Add onion, garlic<br><i>Optional: add sliced mushrooms</i></li>
+  <li>Saute for 1-2 minutes until onion is translucent</li> 
+  <li>Spice it up: salt, pepper, dried oregano, dried basil</li> 
+  <li>Stir for a few more minutes</li> 
+  <li>Add pasta to boiling water, cook for 8-9 minutes</li>
+  <li>After adding pasta to water, add meatballs to pan (meatballs take 8 minutes to cook)</li> 
+  <li>After 2-3 minutes, add tomatoes to pan and stir </li> 
+  <li>After another 2-3 minutes, add spinach to pan and stir in </li> 
+  <li>After done cooking pasta and meatball mix, strain pasta and add to bowls </li> 
+  <li>Divide meatball mix evenly into 2 bowls with the pasta</li> 
+  <li>Add marinara sauce and stir in<br><i>Optional: add fresh diced basil if available</i></li>
+  <li>Top with Parmesan</li> 
+</ol>
+</div>
+
+
+
+Prep: 20-25 minutes<br>
+Cook: 20-25 minutes (heating up water takes a long time lol)<br>  
+
+Total A-Z time: 45-50 minutes 
