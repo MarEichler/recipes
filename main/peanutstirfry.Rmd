@@ -38,7 +38,7 @@ knit: pagedown::chrome_print
 </div>
 <br>
 <span class="mh">Directions:</span>  
-<b>Mashed Potatoes</b>
+<div class="my2cols">
 <ol>
   <li>make tofu</li>
   <li>make sauce - I just taste and add until I think its good</li>
@@ -50,6 +50,7 @@ knit: pagedown::chrome_print
   <li>Add sauce and stir in </li>
   <li>Add tofu and stir in</li>
 </ol>
+</div>
 </div>
 
 

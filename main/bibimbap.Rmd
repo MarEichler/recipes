@@ -23,7 +23,7 @@ knit: pagedown::chrome_print
   <li>1 medium carrot, cut into match sticks</li>
   <li>8 oz mushrooms (crimini or shiitake), thinly slice mushroom caps</li>
   <li>2-3 handfulls of baby kale or spinach</li>
-  <li>1 block extra firm tofu, cubed *sprinkled wtih salt*</li>
+  <li>1 block extra firm tofu, cubed *sprinkled with salt*</li>
   <li>2-3 cloves garlic, minced</li>
   <li>salt</li>
   <li>sesame oil</li>
