@@ -1,0 +1,56 @@
+---
+title: "Ind Recipe"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Herbed Quinoa & Chickpea Salad
+
+<span class="mh">Servings:</span> 3
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>1 cup dry quinoa & 2 cups of water</li>
+  <li>15oz can of chickpeas (or 1&frac12; cup cooked chickpeas)</li>
+  <li>1&frac12; cups chopped spinach</li>
+  <li>&frac12; cups chopped parsley</li>
+  <li>&frac12; cups chopped cilantro</li>
+  <li>&frac13; cups chopped green onion</li>
+  <li>&frac13; cup crumbed vegan feta (I like violife feta block)</li>
+  <li>&frac13; cup pepitas (pumpkin seeds)</li>
+  <li> dressing
+  <ul>
+  <li>&frac14; olive oil</li>
+  <li>3-4 TBSP lemon juice</li>
+  <li>2 TBPS tahini</li>
+  <li>1 large clove galric, pressed or minced</li>
+  <li>&frac12; tsp salt</li>
+  <li>ground pepper to taste</li>
+  </ul>
+  </li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>make the quinoa, add dry quinoa and water into pan.  Bring to boil, then cover and simmer for 15 minutes.  Let quinoa rest for 5 minutes after removing from stove</li> 
+  <li>Mix dressing ingredients together</li>
+  <li>Mix salad ingredients into large bowl, then add dressing and mix further</li> 
+</ol>
+</div>
+
+<span class="mh">Time:</span> 30 min
+
+Last in fridge for 3 days 
+
+<span class="mh">Source:</span>
+<a href = "https://cookieandkate.com/herbed-quinoa-chickpea-salad-recipe/" target="_blank">Cookie & Katie, Herbed Quinoa & Chickpea Sald with Lemon-Tahini Dressing</a>

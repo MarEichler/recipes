@@ -1,0 +1,36 @@
+---
+title: "Sweet Squash"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Sweet Squash 
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>1 delicata squash, cut into thin slices</li>
+  <li>2-4 TBSP Maple syrup</li>
+  <li>2-4 TBSP Vegan butter </li>
+  <li>Salt</li>
+  <br><br>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Set oven at 400 degrees </li>
+  <li>Coat each piece of squash in a mixture of butter and maple syrup</li>
+  <li>Place pieces spread out on a baking sheet (with parchment paper)</li>
+  <li>Sprinkle a little salt on the top</li>
+  <li>Bake for 25-35 min (until fork soft); flipping the pieces about halfway through</li> 
+</ol>
+</div>
+

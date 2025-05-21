@@ -1,0 +1,55 @@
+---
+title: "Spaghetti Squash"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Spaghetti Squash
+
+<span class="mh">Servings:</span>2 servings
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>1 Spagetti Squash</li>
+  <li>1 onion</li>
+  <li>3 clove garlic, minced finely</li>
+  <li>1 large carrot, diced</li>
+  <li>2 stalks of celery, diced</li>
+  <li>1 red bell pepper, diced</li>
+  <li>&frac12; cup of dry black lentils</li>
+  <li>1&frac12; cup of vegetable broth</li>
+  <li> 2-3 handfulls of spinach </li> 
+  <li>1 cup marinara sauce</li> 
+  <li>Salt, pepper, oregano and basil to taste</li> 
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Cut spagetti squash in half and scope out seeds</li>
+  <li>Put squash face down onto a baking sheet (with parchment paper), and cover top lightly with tin foil</li>
+  <li>Bake squash at 400 degrees in oven for 40-60 min (until fork soft)</li> 
+  <li>When about 30 min out of squash being done, heat a olive oil in pan on medium</li>
+  <li>Add onion and garlic, saute fro 3 min</li>
+  <li>Add celery and carrots, stir-in and daute for 3 min</li>
+  <li>Add bell pepper, salt, pepper, oregano and basil</li>
+  <li>Add broth and lentils</li>
+  <li>Bring mixture to a boil and boil for 2-3 min</li>
+  <li>Reduce heat to simmer, cover pan, simmer for 25 min</li>
+  <li>Add marinara sauce and mix</li>
+  <li>Once squash is done, scope out into bowl (half into one bowl, other half into another bowl)</li> 
+  <li>Split mixture in pan between 2 bowls</li> 
+</ol>
+</div>
+
+
+<span class="mh">Time:</span> 1.5 hours total 

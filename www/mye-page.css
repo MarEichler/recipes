@@ -26,6 +26,16 @@
   content: string(h1-text);
 }
 
+@page chapter:left {
+  @bottom-left {
+    content: "Page " counter(page);
+  }
+  @bottom-right {
+    content: element(runningH1Title);
+    white-space: nowrap !important;
+  }
+}
+
 /* right page */
 .running-h2-title {
   position: running(runningH2Title);
@@ -39,27 +49,7 @@
   /* However, this is yet unsupported by Paged.js, see https://gitlab.coko.foundation/pagedjs/pagedjs/-/issues/38 */
   content: string(h2-text);
 }
-
-
-/* Default left page */ 
-@page chapter:left {
-  @top-left{
-    content: none
-  }
-  @bottom-left {
-    content: "Page " counter(page); 
-  }
-  @bottom-right {
-    content: element(runningH1Title);
-    white-space: nowrap !important;
-  }
-}
-
-/* default right page */ 
 @page chapter:right {
-  @top-left{
-    content: none
-    }
   @bottom-right {
     content: "Page " counter(page);
   }
@@ -78,12 +68,9 @@
     content: none;
   }
   @bottom-right {
-    content: "Page " counter(page);
+    content: counter(page);
   }
-  @bottom-left {
-    content: none; 
-  }
-} 
+}
 @page :first {
   @top-left {
     content: none;
@@ -102,8 +89,7 @@
 
 /* Front cover */
 .front-cover {
-  /*break-after: recto; */
-  break-after: avoid;
+  break-after: recto;
 }
 
 /* Front page or title page */
@@ -155,13 +141,13 @@
 
 /* page breaks; aka CSS fragmentation */
 .level1 {
-  break-before: recto; 
-  page: chapter; 
+  break-before: recto;
+  page: chapter;
 }
 
-/* each level2 is it's own page (for each recipe) */ 
+/*have new page for each receipe */
 .level2 {
-  break-before: always; 
+  break-before: always;
 }
 
 .front-matter-container .level1 {

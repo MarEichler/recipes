@@ -21,16 +21,16 @@ knit: pagedown::chrome_print
   <li>1 TBSP olive oil</li>
   <li>3 cloves of garlic</li>
   <li>Large sweet onion</li>
-  <li>2&frac12; cups diced carrots</li>
-  <li>2&frac12; cups diced celery</li>
-  <li>2&frac12; cups diced potatoes, <i>Prefer purple potatoes</i></li>
-  <li>2&frac12; cups diced winter squash, <i>Prefer delicata</i></li>
+  <li>1&frac12; cups diced carrots</li>
+  <li>1&frac12; cups diced celery</li>
+  <li>3&frac12; cups diced potatoes, <i>Prefer purple potatoes</i></li>
+  <li>3&frac12; cups diced squash, <i>Prefer delicata</i></li>
   <li>4 cups veggie broth</li>
   <li>14oz can of coconut milk</li>
   <li>14oz can of corn</li>
   <li>14oz can of navy beans</li>
   <li>1-2 TBSP of parsley</li>
-  <li>3 tsp nutmeg</li>
+  <li>2 tsp nutmeg</li>
   <li>Salt and pepper, to taste</li>
 </ul>
 </div>
@@ -43,25 +43,34 @@ knit: pagedown::chrome_print
     <ul>
       <li>3 cloves of garlic</li>
       <li>Large sweet onion</li>
+      <li> Salt & pepper to taste </li> 
+    </ul>Saute for about 5 minutes, until onions translucent
+  </li>
+  <li>Add to pot:
+    <ul>
       <li>2&frac12; cups diced carrots</li>
       <li>2&frac12; cups diced celery</li>
-    </ul>Saute for about 10 minutes
+    </ul>Saute for about 5 minutes (until veggies start to soften) 
   </li>
-  <li>ADd to pot:
+  <li>Add to pot:
     <ul>
-      <li>2&frac12; cups diced potatoes</li>
-      <li>2&frac12; cups diced winter squash</li>
+      <li>3&frac12; cups diced potatoes</li>
+      <li>3&frac12; cups diced squash</li>
+    </ul>Saute for about 2 minutes
+  </li>
+  <li>Add to pot:
+    <ul>
       <li>4 cups veggie broth</li>
       <li>14oz can of coconut milk</li>
+      <li>2 tsp nutmeg</li>
     </ul>
   </li>
-  <li>Bring to the pot to just before a boil, then reduce heat and simmer for about 30 minutes (until veggies are fork tender)</li>
+  <li>Bring to the pot to just before a boil, then reduce heat and simmer for about 20-30 minutes (until veggies are fork tender)</li>
   <li>Add to the pot:
     <ul>
       <li>14oz can of corn</li>
       <li>14oz can of navy beans</li>
       <li>1-2 TBSP of parsley</li>
-      <li>3 tsp nutmeg</li>
       <li>Salt and pepper, to taste</li>
     </ul>
   </li>
@@ -73,3 +82,6 @@ knit: pagedown::chrome_print
 <span class="mh">Notes:</span> Good with bread or homemade croutons
 
 <span class="mh">Source:</span> Based on soup from co-op in St. Peter, MN
+
+<span class="mh">TIME:</span> 1.5 - 2 hours total 
+

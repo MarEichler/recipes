@@ -1,0 +1,42 @@
+---
+title: "Ind Recipe"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Burrito Bowls
+
+<span class="mh">Servings:</span> 4 servings
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>Refried beans (see side dishes)</li>
+  <li>Mexican Rice (see side dishes)</li>
+  <li>2 veggies diced: chard/broccoli is my favorite</li> 
+  <li>bell pepper, diced</li> 
+  <li>Onion, diced</li>
+  <li>2-3 cloves garlic, minced</li>
+  <li>avacado, sour cream, hot sauce are optional toppings</li> 
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Make pinto beans and mexican rice</li>
+  <li>Heat oil in pan</li>
+  <li>add onions and stir for a few minutes then add garlic</li>
+  <li>Add bell pepper and veggies (order depends on which veggies you buy) </li>
+  <li>Mix all together</li>
+</ol>
+</div>
+
+<span class="mh">Time:</span>: 1 hour 

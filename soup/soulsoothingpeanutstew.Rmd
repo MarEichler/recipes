@@ -28,7 +28,7 @@ knit: pagedown::chrome_print
   <li>4 cups vegetable broth</li>
   <li>1&frac12; TBSP chili powder</li>
   <li><i>Optional</i>: 1&frac14; cayenne pepper</li>
-  <li>&frac13; cup peanut butter</li>
+  <li>&frac12; cup peanut butter</li>
   <li>14oz can chickpeas (&frac12; cup dried)</li>
   <li>1 bunch spinach (3-5 cups)</li>
   <li>Salt and peper to taste</li>
@@ -56,7 +56,7 @@ knit: pagedown::chrome_print
   </li>
   <li>In a bowl, whisk
     <ul>
-      <li>&frac13; cup peanut butter</li>
+      <li>&frac12; cup peanut butter</li>
       <li>1 cup veggie broth</li>
     </ul>After mixed, add to pot
   </li>

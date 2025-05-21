@@ -23,8 +23,9 @@ knit: pagedown::chrome_print
   <li>1-2 medium carrots, sliced</li>
   <li>4 leafs of dino kale</li>
   <li>olive oil or coconut oil</li>
-  <li>Can also add spinach, bell pepper, other veggeis
-  <li>Peanut sauce (either buy or make homemade, I just eyeball it and taste it to get proportions right)
+  <li>Can also add spinach, bell pepper, other veggies</li>
+  <br>
+  <li>Peanut sauce (either buy or make homemade, I just eyeball it and taste it to get proportions right)</li>
     <ul>
       <li>chili flakes</li>
       <li>creamy peanut butter</li>
@@ -40,8 +41,8 @@ knit: pagedown::chrome_print
 <span class="mh">Directions:</span>  
 <div class="my2cols">
 <ol>
-  <li>make tofu</li>
-  <li>make sauce - I just taste and add until I think its good</li>
+  <li>make tofu (baked tofu)</li>
+  <li>make sauce</li>
   <li>Add oil to big pot</li>
   <li>Add broccoli and carrots</li> 
   <li>Saute for 1-2 minutes</li>
@@ -51,12 +52,7 @@ knit: pagedown::chrome_print
   <li>Add tofu and stir in</li>
 </ol>
 </div>
-</div>
 
+Serve with brown rice
 
-Serve with brown rice 
-
-Prep: 30-40 minutes (cutting up veggies takes awhile)<br>
-Cook: varies (baking tofu, frying tofu, etc.)<br>
-
-Total A-Z time: budget 1.5 hours 
+<span class="mh">Total A-Z time:</span>:  budget 1.5 hours 

@@ -1,0 +1,37 @@
+---
+title: "Squash Seeds"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Squash Seeds 
+
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>Seeds from fresh squash (delicata or spagetti squash)</li>
+  <li>Salt (or seasoned salt)</li>
+  <li>Olive oil </li>
+  <br><br>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Set oven at 325 degrees </li>
+  <li>Separate seeds from guts of squash and put seeds into a bowl</li>
+  <li>Add a small amount of olive oil; mix until seeds are lightly coated</li>
+  <li>Add salt and mix until seeds are lightly coated</li>
+  <li>Spread seeds out on a baking sheet (with parchment paper)</li>
+  <li>Bake for 25 min (or until seeds are golden brown)</li> 
+</ol>
+</div>
+

@@ -1,0 +1,46 @@
+---
+title: "Pesto Pasta"
+date: '`r Sys.time()`'
+output: 
+  pagedown::html_paged:
+    css: 
+    - "../www/mye.css"
+    - "../www/mye-page.css"
+    - "../www/mye-fonts.css"
+knit: pagedown::chrome_print
+---
+
+## Pesto Pasta  
+
+<span class="mh">Servings:</span> 4 servings
+<br>
+
+<span class="mh">Ingredients:</span>  
+<div class="my2cols">
+<ul>
+  <li>1 box of jovial gf bow tie pasta</li>
+  <li>0.35-0.40 lbs of Mississippi Market non-dairy pesto</li>
+  <li>1 bunch of kale; finely chopped (separate stems and leaves)</li>
+  <li>2-3 TBSP olive oil</li>
+  <li>12-16 oz of grape/cherry tomatoes, cut in half</li>
+  <li>2-4 TBSP of pine nuts</li>
+  <li>freshly grated Parmesean<br><i><a href="https://shop.violifefoods.com/just-like-parmesan" target="_blank">Violife</a></i></li>
+</ul>
+</div>
+<br>
+<span class="mh">Directions:</span> 
+<div class="my2cols">
+<ol>
+  <li>Heat large pot of water until boiling</li>
+  <li>Heat oil in non-stick pan on medium </li>
+  <li>Add kale stems to pan, add pasta to boiling water (pasta cooks for 10 min)</li>
+  <li>Sautee kale stems for 1 min, then add kale leaves and sautee for 2-3 min </li>
+  <li>Add salt and pepper to taste </li>
+  <li>Turn heat to low and add tomatoes, mix<li>
+  <li>Add pine nuts and pesto to pan.</li> 
+  <li>Drain pasta and add to pan, mix throughly/li>
+  <li>Serve with parmesan</li>
+</ol>
+</div>
+
+<span class="mh">Time:</span>: 30 min total 
