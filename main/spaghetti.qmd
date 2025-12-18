@@ -1,0 +1,56 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Spaghetti  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2  | 1-2.5 hrs  | N/A | 
+
+
+### Ingredients:
+
+- half an onion, or 2-3 shallots, diced 
+- 3 cloves of garlic, minced
+- 500-800g of tomatoes (usually do can of diced tomatoes or tomato sauce; mix with fresh tomoatoes) 
+- Italian seasoning, basil, oregano, salt & pepper to taste  
+- large bunch of spinach 
+- 228g of spaghetti (114g per person); Bionature Gluten Free Spaghetti 
+- 6 vegan meatballs, or lentils 
+- a massive amount of freshly grated Violife Parmesan  
+
+### Directions 
+
+- heat water in big pot on high
+- heat pan with olive oil, add onion/garlic and saute for 3-5 minutes 
+- add tomatoes and any dry herbs (Italian seasoning) 
+- bring to a boil, then cover and simmer on low for at least 30 minutes 
+- add pasta to boiling water and cook for 8-9 minutes
+- add spinach to tomato mixture and cook down 
+- add fresh herbs (basil, oregano, parsley) 
+- drain pasta and add to pan and mix
+- divide evenly into 2 bowls, add meatballs and top with Parmesan 
+
+#### If using lentils 
+- use at tomato sauce 
+- add some additional broth 
+- add lentils with tomatoes 
+
+#### If reheating meatballs 
+- move frozen meatballs from freezer to fridge the night before 
+- heat in oven at 350 for 8-10 minutes 
+
+  
+```{=typst}
+#pagebreak()
+```

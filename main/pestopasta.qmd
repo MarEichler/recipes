@@ -1,0 +1,63 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Pesto Pasta  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 dinner, 2 lunch  | 45 min | N/A | 
+
+
+### Ingredients:
+
+- 12 oz pasta 
+- 2-3 TBSP olive oil 
+- 1 block of firm tofu, cubed  
+- pesto (0.35-0.50 lbs) 
+- 1 bunch of dino kale, finely chopped (seperate stems and leaves) 
+- 300g of grape/cherry tomatoes, cut in half 
+- 1 handful of pine nuts 
+- spices: Italian, garlic powder, onion powder 
+- Salt & pepper
+- freshly grated Parmesan (I like Violife block) 
+
+### Directions 
+
+- heat oil over medium-lo heat
+- add tofu, add italian spices, garlic powder, and onion powder to taste 
+- stir tofu every 45-60 seconds to prevent sticking 
+- chop kale and tomatoes 
+- once tofu starts to lightly golden brown on some sides, add the stems of kale and cook for 2-3 minutes
+- add kale leaves and stir to mix, and cook for 5-7 minutes 
+- salt & pepper to taste
+- cook pasta 
+- add tomatoes and turn heat down a bit 
+- with ~2-3 minutes left of pasta, add pine nuts and stir 
+- drain pasta 
+- add pesto and pasta and mix together
+- top with parmesean 
+
+
+### Pesto 
+
+Buy from Mississippi Market (have non-dairy pesto from deli) or make from scratch: 
+
+- cashews 
+- basil
+- lemon juice
+- garlic 
+- salt 
+  
+```{=typst}
+#pagebreak()
+```

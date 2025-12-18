@@ -1,0 +1,55 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Tofu Scramble V1 (Mushroom/Paprika)
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 servings | 30 min | Oh She Glows by Angela Liddon, 2014, [ohsheglows.com/book](https://ohsheglows.com/book/) | 
+
+
+### Ingredients:
+
+- 2 tsp olive oil 
+- 2-3 shallots, diced 
+- 2-3 cloves garlic, minced 
+- 8-10 oz of crimini mushrooms, diced 
+- red bell pepper, diced 
+- 1 TBSP nutritional yeast 
+- &frac14; tsp paprika (smoked paprika is the best) 
+- &frac12; tsp salt 
+- 1 block of extra firm tofu 
+- 3 cups spinach 
+- pepper to taste 
+
+### Directions 
+
+
+- Heat 1 TBSP olive oil in large pan over medium heat
+- Add to the pan:
+  * garlic, minced  
+  * shallots, diced  
+  * cremini mushrooms, diced  
+  Saute for 5-10 minutes, until most of the liquid from mushrooms have evaporated
+- Add red bell pepper, diced and saute for a few more minutes
+- Add and stir 
+  * 1 TBSP nutritional yeast
+  * &frac14; tsp paprika
+  * &frac12; tsp salt  
+- Crumple tofu into pan and and stir in
+- Add spinach and stir until the spinach has cooked down 
+  
+  
+```{=typst}
+#pagebreak()
+```

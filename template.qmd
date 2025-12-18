@@ -1,0 +1,36 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Name 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| #  | # min | Source, [link](url)
+
+
+### Ingredients:
+
+- item 
+- item 
+- item 
+
+### Directions 
+
+- item 
+- item 
+- item 
+  
+  
+```{=typst}
+#pagebreak()
+```

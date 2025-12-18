@@ -1,0 +1,79 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Tofu Scramble V2 (Eggy Sauce)
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 servings | 45 min | Based on Okonomi Kitchen, 2020, [okonomikitchen.com/kimchi-tofu-scramble](https://www.okonomikitchen.com/kimchi-tofu-scramble) | 
+
+### Ingredients:
+
+- 16oz extra firm tofu (high protien tofu)
+
+#### Eggy Sauce 
+
+- &frac12; cup of non-dairy milk (almond or cashew milk) 
+- 1 TBSP nutritional yeast 
+- 2 TBSP sesame paste or cashew butter
+- 2 TBSP soy sauce
+- 1 tsp miso paste
+- &frac14; tsp tumeric (for color) 
+- &frac12; tsp black salt
+
+
+#### Kimchi & Sweet Potatoes
+
+- 3 scallions, sliced
+- bunch of spinach
+- 1 cup kimchi
+- 2-4 sweet potatoes
+
+
+#### Carmalized Onions & Tomatoes; Potatoes
+
+- 1 large onion 
+- 300g of tomatoes, cut in half 
+- bunch of spinach 
+- mix of potatoes, cubed 
+
+### Directions 
+
+#### Kimchi & Sweet Potatoes
+
+- Heat oven to 400 degrees, put sweet potatoes on baking sheet with parchment paper and put in the oven for 40 min
+- blend top ingredients (milk-salt) to make eggy sauce
+- heat pan on medium, crumble tofu into the pan
+- add eggy sauce and scallions and gently stir for a 1-3 minutes
+- cook while stirring regularly for ~5min
+- Add spinach and stir until the spinach has cooked down, and there is no extra liquid in the pan
+- turn off stove, mix in kimchi
+
+
+#### Carmalized Onions & Tomatoes; Potatoes
+
+- cook diced onions in olive oil on medium for 30-40 minutes until caramelized 
+- add tofu, spinach, eggy sauce and potatoes
+- cook on medium low until most moisture is gone 
+
+##### Potatoes 
+- heat oven to 425
+- toss cubed potatoes with salt, pepper, garlic powder, onion powder (maybe some thyme, rosemary balsamic) 
+- put on baking sheet with parchment paper
+- cook for 15 minutes, toss/flip, cook for another 15-25 minutes 
+
+  
+  
+```{=typst}
+#pagebreak()
+```

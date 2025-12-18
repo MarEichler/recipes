@@ -1,0 +1,42 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Eggs & Basil  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2  | ~30 min | Vegan-ize Fun Fun Cook, [mamaleeblog.wordpress.com/2016/10/28/basil-leaves-fried-free-range-eggs-taiwanese-dish/](https://mamaleeblog.wordpress.com/2016/10/28/basil-leaves-fried-free-range-eggs-taiwanese-dish/) | 
+
+
+### Ingredients:
+
+- 1 TBSP sesame oil
+- vegan eggs -- look at Tofu Scrambles Eggy Sauce 
+- A huge bunch of fresh basil leaves
+- &frac14; cup green onions, chopped
+- Salt 
+
+### Directions 
+
+- Heat  olive oil in pan
+- Add fresh basil leaves to pan, quickly stir until basil leaves have cooked down (1-2 minutes)
+- Add cooked basil to a bowl
+- Add &frac14; cup green onions, chopped to pan (add more oil if needed).  Stir and cook for 2-3 minutes
+- Add vegan eggs to pan 
+- Add basil to pan
+- Add vegan eggs to the bowl with basil and stir together
+- Salt to taste 
+  
+```{=typst}
+#pagebreak()
+```

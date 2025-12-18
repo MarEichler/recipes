@@ -1,0 +1,52 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Herbed Quinoa & Chickpea Salad
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 4 servings  | 30 min | Cookie & Kate, [cookieandkate.com/herbed-quinoa-chickpea-salad-recipe](https://cookieandkate.com/herbed-quinoa-chickpea-salad-recipe/) | 
+
+
+### Ingredients:
+
+- 1 cup dry quinoa & 2 cups of water
+- 15oz can of chickpeas (or 1&frac12; cup cooked chickpeas)
+- 1&frac12; cups chopped spinach
+- &frac12; cup chopped parsley
+- &frac12; cup chopped cilantro
+- &frac13; cup chopped green onion
+- &frac13; cup crumbed vegan feta (I like violife feta block)
+- &frac13; cup pepitas or pumpkin seeds
+- Dressing: 
+  * &frac14; olive oil
+  * 3-4 TBSP lemon juice
+  * 2 TBPS tahini
+  * 1 large clove galric, pressed or minced
+  * &frac12; tsp salt
+  * ground pepper to taste
+  
+### Directions 
+
+- make the quinoa, add dry quinoa and water into pan.  Bring to boil, then cover and simmer for 15 minutes.  Let quinoa rest for 5 minutes after removing from stove
+- Mix dressing ingredients together
+- Mix salad ingredients into large bowl, then add dressing and mix further
+
+### Notes 
+
+Last in fridge for 3 days 
+
+  
+```{=typst}
+#pagebreak()
+```

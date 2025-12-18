@@ -1,0 +1,53 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Bibimbap  
+
+| Servings | Time | Source |
+|:--|:---|:-------------------|
+| 2 dinner | **70 min total** = 30 min prep + 40 min cook| Korean Bapsang, [www.koreanbapsang.com/tofu-bibimbap](https://www.koreanbapsang.com/tofu-bibimbap/) | 
+
+
+### Ingredients:
+
+- 2 servings of cooked rice; 1 cup of dry rice, half white & half brown rice
+- 1 medium zucchini, cut into match sticks
+- 1 medium carrot, cut into match sticks
+- 8 oz mushrooms (crimini or shiitake), thinly slice mushroom caps
+- 2-3 cups of kale or spinach
+- 1 block extra firm tofu, cubed 
+- 2-3 cloves garlic, minced
+- sesame oil
+- Gochujang sauce, such as [K-MAMA](https://kmamasauce.com/) and kimchi for toppings 
+
+### Directions 
+
+- Cook rice, put rice into oven safe bowls 
+- Cut up veggies, after cutting up zucchini sprinkle some salt on them and let sit for 10-15 minutes
+- Cook zucchini: heat pan with oil add zucchini, saute for 2-3 minutes
+  * if using kale put in kale first and then add zucchini after a couple minutes
+  * if using spinach, put zucchini in first and then add spinach after 1 minute 
+- take zucchini & greens out and toss with minced garlic and sesame oil
+- Cook carrots: heat pan with oil and add carrots, saute for 2-3 minutes (cook time will depend on how small pieces are)
+- Cook mushrooms: heat pan and add mushrooms, saute until liquid is gone from mushrooms 
+- take a measuring cup and put 1 cup of packaged rice into a bowl, arrange veggies around rice, put into the oven at 300 degrees (if going to leave in for a long time do at 180)
+- Tofu:
+  * Fry tofu: heat oil in pan on medium, while waiting sprinkle tofu with salt, once oil is hot add tofu to pan, pan-fry until all sides are lightly golden (5-10 minutes?)
+  * Bake tofu: see baked tofu
+  * Marinate tofu: cover tofu with tamari  and sesame oil and marinate for ~6 hours
+- Add tofu to bowls and serve with sauce and kimchi 
+
+  
+```{=typst}
+#pagebreak()
+```

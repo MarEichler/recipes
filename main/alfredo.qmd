@@ -1,0 +1,60 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Alfredo Pasta  
+
+| Servings | Time | Source |
+|:-----|:---|:-------------------|
+| 2-3  | ~30 min | Nora Cooks, [www.noracooks.com/vegan-alfredo-sauce](https://www.noracooks.com/vegan-alfredo-sauce) | 
+
+
+### Ingredients:
+
+- 16 oz fettuccine or pasta of choice
+- 1.5 cup raw cashews
+- 1-2 TBSP olive oil
+- &frac12; medium sweet onion, chopped
+- 6 cloves of garlic, minced
+- 2 cups unsweetened almond milk, cashew/soy/coconut also fine
+- &frac14; cup nutritional yeast
+- 1 tsp lemon juice
+- 1 tsp salt, or to taste
+
+### Directions 
+
+- Cook pasta while making the sauce
+- Bring 4 cups of water to boil.  Pour hot water over the 1.5 cups of raw cashews and let soak for 5 minutes
+- Heat 1-2 TBSP olive oil over medium heat and add:
+  * &frac12; medium sweet onion, chopped
+  * 6 cloves of garlic, minced
+- Drain the cashews and discard the soaking water and add cashews to the blender 
+- Add the following to the blender:
+  * Cooked onions and garlic
+  * 2 cups unsweetened almond milk
+  * &frac14; cup nutritional yeast
+  * 1 tsp lemon juice
+  * 1 tsp salt
+- Blend on high for approximately 1 min, or until sauce is creamy
+- Pour the sauce over the pasta and stir
+- Continue to heat the mixed pasta and sauce on low heat if adding more veggies  
+  *Possible Additions*
+  * Cooked peas
+  * Kale
+  * Spinach
+  * Mushrooms
+  * Freshly grated Parmesan (like Violife)
+  
+  
+```{=typst}
+#pagebreak()
+```

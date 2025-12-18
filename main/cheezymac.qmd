@@ -1,0 +1,59 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Cheezy Mac 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 dinner, 2 lunch  | ~40 min | Can't find original source | 
+
+
+### Ingredients:
+
+- 16oz pasta
+- 1 cup yellow potatos, peeled and diced
+- &frac14; cup carrots, peeled and diced
+- &frac13; cup onions, peeled and diced
+- &frac34; cup water (from pot of boiled veggies)
+- &frac12; cup raw cashews
+- &frac14; cup coconut milk
+- 2 TBSP nutritional yeast
+- 1 TBSP lemon juice
+- &frac34; tsp salt
+- &frac14; tsp garlic powder
+- &frac18; tsp paprika
+
+### Directions 
+
+- Boil carrots, potato, and onion for ~10 minutes until fork tender
+- Blend all ingredients (except pasta) into blender on high for 45-60 seconds
+- Pour over and mix with pasta  
+  *Additions:*
+  * Truffle sauce
+  * peas/broccoli
+  
+
+### Queso Sauce 
+
+
+To make Queso Sauce add:
+
+- &frac12; tsp chili powder
+- &frac12; tsp cumin
+- 4oz can of green chilis
+- Black bean and cilantro (after blending)
+
+  
+```{=typst}
+#pagebreak()
+```

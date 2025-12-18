@@ -1,0 +1,45 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Baked Tofu  
+
+| Servings | Time | Source |
+|:-----|:---|:-------------------|
+| 2-4  | 40 min | Cookie & Kate, [cookieandkate.com/how-to-make-crispy-baked-tofu](https://cookieandkate.com/how-to-make-crispy-baked-tofu/) | 
+
+### Ingredients:
+
+- 1 bock tofu (16 oz, extra firm)
+- 1 TBSP sesame oil or olive oil 
+- 1 TBSP tamari 
+- 1 TBSP cornstarch or arrowroot starch 
+
+### Directions 
+
+- Preheat the oven to 400 degrees F and line a large, rimmed baking sheet with parchment paper to prevent tofu from sticking.
+- If extra firm tofu, cube (otherwise press tofu for at least 10 min) 
+- Put cubed tofu into mixing bowl, drizzle oil and tamari and toss to combine
+- Sprinkle in the startch and toss the tofu unitl startch is evenly coated 
+- arrange tofu on baking sheet in even layer
+- bake for 25-30 minutes, tossing tofu half-way, until tofu is deeply golden on edges 
+- Transfer pressed tofu to medium mixing bowl and drizzle with olive oil and tamari.  Toss to combine.  Sprinkle in the starch over the tofu, and toss the tofu
+
+### Notes 
+
+Crispy tofu, often used in peanut stir fry dish
+
+  
+  
+```{=typst}
+#pagebreak()
+```

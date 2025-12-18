@@ -1,0 +1,43 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Burrito Bowls  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 dinner, 2 lunch | 60-80 min | Mix  | 
+
+
+### Ingredients:
+
+- Refried beans (see side dishes)
+- Mexican Rice (see side dishes)
+- Onion, diced
+- 2-3 cloves garlic, minced
+- 2 veggies diced: chard, kale, broccoli, green beans, etc. 
+- bell pepper, diced 
+- avocado, sour cream, hot sauce are optional toppings 
+
+### Directions 
+
+- Add onions to pan and cook over medium heat to lightly caramelize 
+- Make pinto beans and Mexican rice
+- add garlic
+- Add bell pepper and veggies (order depends on which veggies you buy) 
+- Mix all together
+- top with hot sauce, vegan sour cream, and/or cilantro sauce (cilantro, garlic, olive oil, lime/lemon juice)
+  
+  
+```{=typst}
+#pagebreak()
+```

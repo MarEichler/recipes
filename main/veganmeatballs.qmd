@@ -1,0 +1,59 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Vegan Meatballs  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 4 servings  | 60-75 min | Minimalist Baker, [minimalistbaker.com/the-best-vegan-meatballs](https://minimalistbaker.com/the-best-vegan-meatballs/) | 
+
+
+
+### Ingredients:
+
+- 1 cup cooked & cooked quinoa
+- 15 oz can black beans
+- 2 TBSP oil
+- 3 cloves garlic
+- &frac12; cup shallot
+- &frac14; salt 
+- 2&frac12; fresh oregano or 1&frac14; dry oregano
+- &frac12; tsp red pepper flake
+- &frac12; tsp ground fennel/fennel seeds 
+- &frac12; cup vegan parm: 6 TBSP cashews, 1.5 TBSP nutritional yeast, 3/8 tsp salt, 1/8 tsp garlic powder
+- 2 TBSP tomato paste
+- 3 TBSP fresh herbs (parsley or basil)
+
+
+### Directions 
+
+- MORNING: in a small pot add &frac13; cup quinoa and &frac23; cup water, bring to a boil then cover and simmer for 15 min.  Shut off stove and set aside. 
+- Make vegan parmesan by blending all ingredients into a food processor
+- Heat oven to 350 degrees, rinse black beans and put on a baking sheet with parchment paper, cook for 15 min
+- heat small pan on stove over medium heat, add oil, then garlic and shallots, stir and cook for 2-3 min  
+  Group 1 into food processor -- gently blend into a loose meal 
+  * black beans
+  * oil/garlic/shallot
+  * salt/oregano/red pepper/fennel  
+  Group 2 into food processor -- gently blend into a textured dough 
+  * quinoa
+  * vegan parm
+  * tomato paste/fresh herbs
+- Roll into 12 individual meatballs, then cool in the fridge for at least 15 min
+- Heat oven to 375 degrees, bake meatballs for 20-30 min
+ 
+  
+  
+```{=typst}
+#pagebreak()
+```

@@ -1,0 +1,157 @@
+---
+title: "MYE Receipe Book"
+subtitle: "Last updated: `r Sys.Date()`"
+format: 
+  typst: 
+    toc: true
+    toc-depth: 2
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+  html: 
+    toc: true
+    toc-depth: 2
+    echo: false 
+    embed-resources: true 
+editor: source
+---
+
+```{=typst}
+#pagebreak()
+```
+
+# MAIN 
+
+```{=typst}
+#pagebreak()
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/alfredo.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/bakedtofu.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/bibimbap.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/burritobowls.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/cheezymac.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/eggsbasil.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/herbquinoachickpea.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/mangobluequinoa.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/mushroomstroganoff.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/peanutstirfry.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/pestopasta.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/shepherdspie.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/spaghetti.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/spagsquash.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/tofuscramblev1.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/tofuscramblev2.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/tomatobasilpasta.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("main/veganmeatballs.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+# SOUP 
+
+```{=typst}
+#pagebreak()
+```
+
+# SIDES 
+
+```{=typst}
+#pagebreak()
+```
+
+# DESSERT 
+
+```{=typst}
+#pagebreak()
+```
+

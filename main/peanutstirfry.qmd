@@ -1,0 +1,54 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+
+## Peanut Tofu Stir-Fry
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 dinner, 1-2 lunch  | 90 min | N/A | 
+
+
+### Ingredients:
+
+- Baked Tofu (see recipe); or can fry tofu in oil
+- 2-3 cups of Broccoli cut into pieces
+- 1-2 medium carrots, sliced
+- 1 bunch of kale
+- olive oil or coconut oil
+- Can also add spinach, bell pepper, other veggies
+- Peanut sauce (either buy or make homemade, I just eyeball it and taste it to get proportions right)
+  * chili flakes
+  * creamy peanut butter
+  * tamari
+  * rice vinegar
+  * maple syrup
+  * seaseme oil
+
+
+### Directions 
+
+- make tofu (baked tofu)
+- make sauce
+- Add oil to big pot
+- Add broccoli and carrots
+- Saute for 1-2 minutes
+- Add some water and then add kale on top
+- Cover pot, cook until veggies are soft
+- Add sauce and stir in 
+- Add tofu and stir in
+  
+  
+```{=typst}
+#pagebreak()
+```

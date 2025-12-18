@@ -1,0 +1,54 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Mango Blueberry Quinoa Salad  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 4  | 30 min | Veggie Belly by Sala, [veggiebelly.com/2011/06/mango-blueberry-quinoa-salad-with-lemon-basil-dressing-recipe.html](http://www.veggiebelly.com/2011/06/mango-blueberry-quinoa-salad-with-lemon-basil-dressing-recipe.html) | 
+
+
+### Ingredients:
+
+- 1 cup of dry quinoa
+- 2 cup water
+- 1 cup fresh blueberries
+- 1 cup cubed ripe mangoes
+- 1 cup cubed cucumbers
+- 1 TBSP dried cranberries
+- 3 TBSP olive oil
+- 4 TBSP (&frac14; cup) lemon juice
+- &frac12; tsp lemon zest
+- 20 basil leaves, chopped finely
+- Salt and pepper to taste
+
+### Directions 
+
+- Cook the quinoa.  Place quinoa and water into medium skillet and bring to boil.  Reduce heat and simmer covered fro 15 minutes.  Remove lit and fluff with a fork.  Let cooked quinoa cool to room temperature.
+- While quinoa is cooking, combine the following into a bowl and refrigerate until serving: 
+  * 1 cup fresh blueberries
+  * 1 cup cubed ripe mangoes
+  * 1 cup cubed cucumbers
+  * 1 TBSP dried cranberries
+- Whisk the following dressing ingredients:
+  * 3 TBSP olive oil
+  * 4 TBSP (&frac14; cup) lemon juice
+  * &frac12; tsp lemon zest
+  * Salt and pepper
+  * Wait to add basil leaves until serving
+- Combine all ingredients directly before serving, mix gently.
+  
+  
+```{=typst}
+#pagebreak()
+```

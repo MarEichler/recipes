@@ -1,0 +1,63 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Mushroom Stroganoff
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 dinner, 3-4 lunch | 120 min | Can't find original source | 
+
+
+### Ingredients:
+
+- &frac34; cup brown/black lentils 
+- 18 oz pasta 
+- &frac14; cup vegan butter or oil 
+- 1 large white onion, diced
+- 12 oz cremini mushroom, diced 
+- 3 cloves garlic 
+- 4-5 large portobello mushrooms, thickly cubed  
+- 2&frac12; cups veggie broth (I like Better than Bouillian)
+- 8 cups chopped kale (1 bunch) 
+- &frac12; TBSP rice vinegar 
+- &frac12; TBSP tamari 
+- &frac14; cup red wine 
+- 1 TBSP fresh rosemary, chopped 
+- &frac14; cup vegan sour cream 
+- salt, fresh parsley, to taste 
+
+### Directions 
+
+- Cook lentils; &frac34; cup brown/black lentils and 1&frac12; broth (1:2 lentils to liquid).  Bring to boil and boil for 2-3 min.  cover and simmer for 25 minutes. 
+- melt butter/oil in pan 
+- Add to the pan: onion, garlic, diced cremini mushrooms and saute for about 5-10 minutes (until mushrooms have cooked down and onion is translucent).  Take mushroom/onion contents from the pan and place into a bowl. 
+- Saute kale for 5-7 minutes, remove from pan and put into bowl with mushroom/onion mixture 
+- Put large cubed portobello mushrooms into pan and saute for 3 minutes 
+- In empty bowl mix: 
+  * 1 cup veggie broth 
+  * &frac12; TBSP rice vinegar 
+  * &frac12; TBSP tamari
+  * &frac14; cup red wine 
+  * 1 TBSP fresh rosemary, chopped (3 TBSP if using dry) 
+  After mixing, add to pan with portobello mushrooms 
+- bring mixture ot boil and then simmer for about 15 minutes (until portobellos reduce in size by about 25%) 
+- with about 5 minutes remaining, start cooking pasta 
+- when portobello muchroom mixture is done, add mushroom/onion/kale and lentils to pan and mix; add more broth if too dry 
+- right before pasta is done, add sour cream and parsely 
+  If add too much sour cream and taste is too sour, add some seasame oil 
+- add pasta and mix 
+
+  
+```{=typst}
+#pagebreak()
+```
