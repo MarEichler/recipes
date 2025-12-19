@@ -1,0 +1,39 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Name 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 1 serving  | 30 min | N/A | 
+
+
+### Ingredients:
+
+- Seeds from fresh squash (delicata or sphagetti squash)
+- Salt (or seasoned salt)
+- Olive oil 
+
+
+### Directions 
+
+- Set oven at 325 degrees 
+- Separate seeds from guts of squash and put seeds into a bowl
+- Add a small amount of olive oil; mix until seeds are lightly coated
+- Add salt and mix until seeds are lightly coated
+- Spread seeds out on a baking sheet (with parchment paper)
+- Bake for 15-25 min (or until seeds are golden brown)
+  

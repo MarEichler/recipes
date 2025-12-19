@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Peanut Stew  
 
@@ -69,7 +72,3 @@ editor: source
 
 Good with brown rice 
   
-  
-```{=typst}
-#pagebreak()
-```

@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Mango Blueberry Quinoa Salad  
 
@@ -48,7 +51,3 @@ editor: source
   * Wait to add basil leaves until serving
 - Combine all ingredients directly before serving, mix gently.
   
-  
-```{=typst}
-#pagebreak()
-```

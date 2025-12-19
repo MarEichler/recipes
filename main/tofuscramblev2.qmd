@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Tofu Scramble V2 (Eggy Sauce)
 
@@ -72,8 +75,4 @@ editor: source
 - put on baking sheet with parchment paper
 - cook for 15 minutes, toss/flip, cook for another 15-25 minutes 
 
-  
-  
-```{=typst}
-#pagebreak()
-```
+

@@ -25,6 +25,7 @@ editor: source
 
 # Favorites 
 
+- [Burrito Bowls](#burrito-bowls)
 - [Mushroom Stroganoff](#mushroom-stroganoff)
 - [Pesto Pasta](#pesto-pasta)
 - [Spaghetti](#spaghetti)
@@ -37,10 +38,6 @@ editor: source
 ```
 
 # MAIN 
-
-```{=typst}
-#pagebreak()
-```
 
 ```{r}
 #| results: asis
@@ -150,11 +147,11 @@ out <- knitr::knit_child("main/veganmeatballs.qmd", quiet = TRUE, envir = enviro
 cat(unlist(out), sep = "\n")
 ```
 
-# SOUP 
-
 ```{=typst}
 #pagebreak()
 ```
+
+# SOUP 
 
 ```{r}
 #| results: asis
@@ -170,7 +167,19 @@ cat(unlist(out), sep = "\n")
 
 ```{r}
 #| results: asis
+out <- knitr::knit_child("soup/potatoleek.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
 out <- knitr::knit_child("soup/spicytofustew.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("soup/threesisterssoup.qmd", quiet = TRUE, envir = environment())
 cat(unlist(out), sep = "\n")
 ```
 
@@ -180,7 +189,53 @@ out <- knitr::knit_child("soup/veggiechili.qmd", quiet = TRUE, envir = environme
 cat(unlist(out), sep = "\n")
 ```
 
+```{=typst}
+#pagebreak()
+```
+
 # SIDES 
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("side/garlicbread.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("side/hummus.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("side/kalesalad.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("side/mexicanrice.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("side/potatoleaves.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("side/refriedbeans.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("side/squashseeds.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
 
 ```{=typst}
 #pagebreak()
@@ -188,7 +243,26 @@ cat(unlist(out), sep = "\n")
 
 # DESSERT 
 
-```{=typst}
-#pagebreak()
+```{r}
+#| results: asis
+out <- knitr::knit_child("dessert/peanutbuttercookies.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
 ```
 
+```{r}
+#| results: asis
+out <- knitr::knit_child("dessert/pistachiocookies.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("dessert/sweetsquash.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("dessert/worldseasiestcookies.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```

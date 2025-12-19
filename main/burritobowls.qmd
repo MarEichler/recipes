@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Burrito Bowls  
 
@@ -20,8 +23,8 @@ editor: source
 
 ### Ingredients:
 
-- Refried beans (see side dishes)
-- Mexican Rice (see side dishes)
+- [Refried beans](#refried-beans) (see side dishes)
+- [Mexican Rice](#mexican-rice) (see side dishes)
 - Onion, diced
 - 2-3 cloves garlic, minced
 - 2 veggies diced: chard, kale, broccoli, green beans, etc. 
@@ -37,7 +40,4 @@ editor: source
 - Mix all together
 - top with hot sauce, vegan sour cream, and/or cilantro sauce (cilantro, garlic, olive oil, lime/lemon juice)
   
-  
-```{=typst}
-#pagebreak()
-```
+

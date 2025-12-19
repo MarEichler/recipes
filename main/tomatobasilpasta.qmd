@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Tomato Basil Pasta
 
@@ -46,7 +49,3 @@ editor: source
 - Stir in cashew cream and basil, cook for 5-10 minutes
 - Drain pasta and mix into pan
   
-  
-```{=typst}
-#pagebreak()
-```

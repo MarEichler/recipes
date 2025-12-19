@@ -1,0 +1,41 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## World's Easiest Cookies 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 12 cookies | 20 min | kitchn, [thekitchn.com/recipe-the-worlds-easiest-cookies-just-happen-to-be-paleo-vegan-and-gluten-free230608](https://www.thekitchn.com/recipe-the-worlds-easiest-cookies-just-happen-to-be-paleo-vegan-and-gluten-free230608) | 
+
+
+### Ingredients:
+
+- 2 coups finely gorund almond flour
+- &frac12; tsp baking powder 
+- &frac13; cup dark maple syrup 
+- 2 tsp vanilla extract 
+- Optional: chopped pecans or walnuts 
+
+### Directions 
+
+- heat oven to 350, line rimmed baking sheet with parchment paper 
+- whisk flour and baking powder (and nuts if adding) 
+- switch to wooden spoon and stir in maple syrup and vanilla 
+- stir until sticky dough forms and holds together 
+- drop rounded tablespoons of dough onto baking sheet
+- bake until ediges are golden brown (~12 minutes) 
+- allow cookies to cook for 3 minutes, then transfer to a wire rack to cool completely 
+  

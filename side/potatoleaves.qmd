@@ -1,0 +1,50 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+```{=typst}
+#pagebreak()
+```
+
+## Potato Leaves 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2  | 10 min | Alex | 
+
+
+### Ingredients:
+
+- 1 TBSP olive oil
+- 2-3 cloves garlic, sliced
+- Ginger (1 tsp ground or 1in fresh, minced)
+- 8 cups sweet potato leaves
+- &frac12; tsp salt or tamari to taste
+- &frac12; sesame oil
+
+### Directions 
+
+- Heat pan over medium heat
+- After heated, add:
+  * 1 TBSP olive oil
+  * 2-3 cloves garlic, sliced
+  * Ginger (1 tsp ground or 1in fresh, minced)
+- Saute for 1 minute
+- Add 8 cups of sweet potato leaves and stir until mostly cooked down, if needed at &frac14; cup water to help cook down
+- Add:
+  * &frac12; tsp salt or tamari to taste
+  * &frac12; sesame oil
+      
+### Notes 
+
+Great side-dish if want more veggies, also good with rice.
+  

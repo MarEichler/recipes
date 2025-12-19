@@ -1,0 +1,52 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Peanut Butter Cookies  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 12 cookies  | 20 min | American Lifestyle, [.com/food-recipes/desserts/guilt-free-gluten-free-peanut-butter-cookies](https://americanlifestylemag.com/food-recipes/desserts/guilt-free-gluten-free-peanut-butter-cookies/) | 
+
+
+
+### Ingredients:
+
+- 1&frac14; cups gf flour (brown rice or oat)
+- &frac12; tsp baking soda
+- &frac12; tsp salt (Himalayan pink)
+- &frac12; cup creamy peanut butter
+- &frac12; cup maple syrup
+- &frac14; cup olive oil
+- &frac12; tsp vanilla extract
+
+### Directions 
+
+- Preheat oven to 350 degrees F and line a baking sheet with parchment paper
+-  In a bowl combine dry ingredients:
+  * 1&frac14; cups gf flour
+  * &frac12; tsp baking soda
+  * &frac12; tsp salt
+- In another bowl, combine wet ingredients:
+  * &frac12; cup creamy peanut butter
+  * &frac12; cup maple syrup
+  * &frac14; cup olive oil
+  * &frac12; tsp vanilla extract
+- Pour the dry ingredients over the wet ingredients and stir until barely combine, Still look a bit dusty, avoid over stirring
+- Let the dough sit for 5 minutes and then give it one more quick stir
+- Drop the dough by heaping TBSP onto parchment paper.  Gently press down on each with the back of a fork to get crisscross effect.   
+  If dough is sticking, run fork and/or TBSP under hot water before use
+- Bake for 10 minutes, let the cookies cool for an additional 10 minutes before removing from the baking sheet
+  

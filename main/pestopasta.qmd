@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Pesto Pasta  
 
@@ -58,6 +61,3 @@ Buy from Mississippi Market (have non-dairy pesto from deli) or make from scratc
 - garlic 
 - salt 
   
-```{=typst}
-#pagebreak()
-```

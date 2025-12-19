@@ -10,8 +10,11 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
-## Name 
+## Three Sisters Soup  
 
 | Servings | Time | Source |
 |:---|:---|:-------------------|
@@ -58,9 +61,6 @@ editor: source
 ### Squash Seeds 
 
 - toss seeds with olive oil and salt 
-- bake at 325-350 for 15-20 minutes (flip halfway to check) 
+- bake at 325-375 for 15-25 minutes (flip halfway to check) 
   
-  
-```{=typst}
-#pagebreak()
-```
+

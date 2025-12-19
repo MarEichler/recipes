@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Spicy Tofu Stew  
 
@@ -64,7 +67,3 @@ editor: source
 
 Good with brown rice 
   
-  
-```{=typst}
-#pagebreak()
-```

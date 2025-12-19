@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Eggs & Basil  
 
@@ -37,6 +40,3 @@ editor: source
 - Add vegan eggs to the bowl with basil and stir together
 - Salt to taste 
   
-```{=typst}
-#pagebreak()
-```

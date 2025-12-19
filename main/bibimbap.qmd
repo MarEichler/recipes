@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Bibimbap  
 
@@ -47,7 +50,4 @@ editor: source
   * Marinate tofu: cover tofu with tamari  and sesame oil and marinate for ~6 hours
 - Add tofu to bowls and serve with sauce and kimchi 
 
-  
-```{=typst}
-#pagebreak()
-```
+

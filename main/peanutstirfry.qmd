@@ -10,7 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
-
+```{=typst}
+#pagebreak()
+```
 
 ## Peanut Tofu Stir-Fry
 
@@ -33,7 +35,7 @@ editor: source
   * tamari
   * rice vinegar
   * maple syrup
-  * seaseme oil
+  * sesame oil
 
 
 ### Directions 
@@ -48,7 +50,4 @@ editor: source
 - Add sauce and stir in 
 - Add tofu and stir in
   
-  
-```{=typst}
-#pagebreak()
-```
+

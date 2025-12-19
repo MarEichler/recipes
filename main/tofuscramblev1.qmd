@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Tofu Scramble V1 (Mushroom/Paprika)
 
@@ -49,7 +52,3 @@ editor: source
 - Crumple tofu into pan and and stir in
 - Add spinach and stir until the spinach has cooked down 
   
-  
-```{=typst}
-#pagebreak()
-```

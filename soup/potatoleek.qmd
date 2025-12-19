@@ -1,0 +1,61 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Potato Leek Soup 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 dinner, 1-2 lunch | 60-90 min | Simple Veganista, [simple-veganista.com/vegan-potato-leek-soup](https://simple-veganista.com/vegan-potato-leek-soup/) | 
+
+
+### Ingredients:
+
+- 1 TBSP olive oil
+- 3 medium leeks (use white and light green parts only) 
+- 3 gloves garlic, minced 
+- 2-2&frac14; lbs potatoes, cubed &frac12; inch (peeled or with skin) 
+- 1&frac12; tsp dried thyme 
+- 1 bay leaf
+- 4 cups veggie broth
+- salt to taste 
+- parsley to garnish 
+
+### Directions 
+
+- prep leeks 
+  * remove and discard the root ends and thick green parts 
+  * cut leeks lengthwise and rince each half under cold water, pulling apart layers to remove any sand/dirt 
+  * should yield ~4-5 cups 
+- cut potatoes 
+- saute leeks and oil for ~10 min, stirring constantly (avoid browning the leeks)
+- add garlic after ~5 minutes 
+- add potatoes, broth, bay leave, herbs -- bring to a boil 
+- reduce heat, cover, and simmer on low for 15 minutes (or until potatoes are fork tender) 
+- remove bay leaf, puree
+  
+### Homemade Croutons 
+
+- cube bread
+- toss with olive oil, salt, pepper, garlic powder, onion powder 
+- bake at 350 for about 15 minutes (flip halfway through)
+
+### Chickpea Croutons 
+
+- toss can of chickpeas with olive oil and seasoning (garlic-salt or lemon-pepper)
+- bake at 400 degrees for 40-45 minutes (stir every 10 minutes) 
+- directions say to remove the skins but that takes so long, I just leave them on 
+  
+

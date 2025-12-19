@@ -1,0 +1,46 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Mexican Rice
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 4 servings  | 25-60 min | The Works of Life, [thewoksoflife.com/mexican-rice-recip](https://thewoksoflife.com/mexican-rice-recipe/) | 
+
+
+### Ingredients:
+
+- 1.5 TBSP oil
+- 1.25 cup uncooked white long grain rice, I like to mix &frac34; cup white rice and &frac12; cup brown rice
+- 1.5 cup vegetable broth, decrease to 1 cup if mixing rice types
+- 1 TBSP tomato paste
+- &frac12; tsp onion powder
+- &frac12; tsp garlic powder
+- &frac12; tsp cumin
+- &frac14; tsp chili powder
+- &frac14; tsp black pepper
+- &frac14; tsp salt
+
+### Directions 
+
+- If mixing rice, heat up 1 cup water and &frac12; cup brown rice; bring to a boil, then cover and simmer for 25 min
+- Heat oil in pan over medium-high heat (~10 min left in cooking brown rice)
+- Add white rice to pan, stir constantly until rice starts to turn golden brown 
+- Add broth, tomato paste and all spices (and brown rice if using).  Mix into rice.
+- Bring to a boil, stirring tomato paste so it disolves
+- Turn heat to low, cover, and simmer for 20 min
+- Remove from heat and fluff with a fork
+  

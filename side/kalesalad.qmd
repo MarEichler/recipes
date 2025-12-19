@@ -1,0 +1,53 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Kale Salad  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 6 servings  | 30 min | Food.com, [food.com/recipe/the-best-shredded-kale-salad-with-pecan-parmesan-and-cranberries-514710](https://www.food.com/recipe/the-best-shredded-kale-salad-with-pecan-parmesan-and-cranberries-514710) | 
+
+### Ingredients:
+
+- 10 cups kale, cut finely (remove stems)
+- 1 cup dried cranberries
+- 2 garlic cloves, minced
+- &frac14;-&frac13; cup lemon juice
+- 2 TBSP olive oil
+- &frac13; tsp salt
+- Dash of pepper
+- 1 cup halved pecans, toasted
+- 1&frac12; TBSP nutritional yeast
+
+### Directions 
+
+- Make dressing by whisking together
+  * 2 garlic cloves, minced
+  * &frac14;-&frac13; cup lemon juice
+  * 2 TBSP olive oil
+  * &frac13; tsp salt
+  * Dash of pepper
+- Make pecan Parmesan by using a food processor to finally chop and mix:
+  * 1 cup halved pecans, toasted (8-10 minutes at 300 degrees) 
+  * 1&frac12; TBSP nutritional yeast
+- Combine kale, cranberries with dressing and toss
+- Finally add pecan Parmesan and toss
+  
+### Notes 
+
+Good on Thanksgiving or Christmas (winter celebration); lasts for a few days in refrigerator 
+
+

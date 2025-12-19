@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Alfredo Pasta  
 
@@ -53,8 +56,3 @@ editor: source
   * Spinach
   * Mushrooms
   * Freshly grated Parmesan (like Violife)
-  
-  
-```{=typst}
-#pagebreak()
-```

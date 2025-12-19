@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Spaghetti Squash
 
@@ -48,7 +51,3 @@ editor: source
 - Once squash is done, scope out into bowl (half into one bowl, other half into another bowl)
 - Split mixture in pan between 2 bowls 
   
-  
-```{=typst}
-#pagebreak()
-```

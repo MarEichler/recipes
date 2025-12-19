@@ -1,0 +1,38 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Refried Beans  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| ~3 cups  | 40-60 min | N/A | 
+
+
+### Ingredients:
+
+- 1 cup dry pinto beans
+- &frac12; tsp salt
+- 1&frac23; cups water 
+
+### Directions 
+
+- In the morning cover the beans with hot water, soak for 6-8 hours 
+- put beans into instant pot with 1&frac23; water and salt 
+- cook on high for 16-20 minutes, natural release of pressure (~20 minutes) 
+- blend beans & liquid for ~45-60 seconds 
+
+Can make without soaking beans by putting directly into instant pot for 60 minutes and ~3 cups of water
+  

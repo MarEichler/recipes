@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Baked Tofu  
 
@@ -29,7 +32,7 @@ editor: source
 - Preheat the oven to 400 degrees F and line a large, rimmed baking sheet with parchment paper to prevent tofu from sticking.
 - If extra firm tofu, cube (otherwise press tofu for at least 10 min) 
 - Put cubed tofu into mixing bowl, drizzle oil and tamari and toss to combine
-- Sprinkle in the startch and toss the tofu unitl startch is evenly coated 
+- Sprinkle in the starch and toss the tofu until starch is evenly coated 
 - arrange tofu on baking sheet in even layer
 - bake for 25-30 minutes, tossing tofu half-way, until tofu is deeply golden on edges 
 - Transfer pressed tofu to medium mixing bowl and drizzle with olive oil and tamari.  Toss to combine.  Sprinkle in the starch over the tofu, and toss the tofu
@@ -38,8 +41,4 @@ editor: source
 
 Crispy tofu, often used in peanut stir fry dish
 
-  
-  
-```{=typst}
-#pagebreak()
-```
+

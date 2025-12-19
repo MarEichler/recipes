@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Spaghetti  
 
@@ -55,7 +58,3 @@ editor: source
 - heat in oven at 350 for 8-10 minutes 
 
 
-  
-```{=typst}
-#pagebreak()
-```

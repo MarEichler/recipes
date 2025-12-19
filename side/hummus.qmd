@@ -1,0 +1,41 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Hummus  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| ~3 cups  | 40-70 min | N/A | 
+
+
+### Ingredients:
+
+- 1 cup dried garbanzo/chickpeas<
+- 2-3 cloves of garlic
+- 4 TBSP sesame seeds
+- 1 TBSP oil (olive oil, sesame oil)
+- juice from 1 lemon
+- Salt to taste
+
+### Directions 
+
+- Soak beans in water for 8 hours</li>
+- Put beans into Instant Pot with 1&frac12; cup water
+- Cook on high for 18 minutes, natural release of pressure (~20 minutes)
+- Put contents (beans and liquid) as well as all other ingredients into blender at low speed for 45-60 seconds
+
+Can make without soaking beans by putting directly into instant pot for 60 minutes and ~3 cups of water
+

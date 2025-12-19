@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Mushroom Stroganoff
 
@@ -52,12 +55,9 @@ editor: source
   After mixing, add to pan with portobello mushrooms 
 - bring mixture ot boil and then simmer for about 15 minutes (until portobellos reduce in size by about 25%) 
 - with about 5 minutes remaining, start cooking pasta 
-- when portobello muchroom mixture is done, add mushroom/onion/kale and lentils to pan and mix; add more broth if too dry 
-- right before pasta is done, add sour cream and parsely 
-  If add too much sour cream and taste is too sour, add some seasame oil 
+- when portobello mushroom mixture is done, add mushroom/onion/kale and lentils to pan and mix; add more broth if too dry 
+- right before pasta is done, add sour cream and parsley 
+  If add too much sour cream and taste is too sour, add some sesame oil 
 - add pasta and mix 
 
-  
-```{=typst}
-#pagebreak()
-```
+

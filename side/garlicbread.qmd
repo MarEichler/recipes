@@ -1,0 +1,41 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Garlic Bread  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 3-4  | 20 min | N/A | 
+
+
+### Ingredients:
+
+- &frac13; cup vegan butter
+- 4 cloves garlic, finely minced
+- 6 slices of bread (at least 1in thick)
+- Optional Additions
+  * Parsley, minced
+  * Vegan Parmesan, grated
+  * Salt and pepper, to taste
+
+### Directions 
+
+- Preheat oven to 350 degrees F and line a baking sheet with parchment paper
+- Melt vegan butter in small bowl
+- Mix in minced garlic into melted butter
+- Coat each slice of bread with melted butter/garlic mixture on baking sheet
+- Transfer baking sheet to oven and bake for 10 minutes
+- Set oven to broil and bake for 1-2 more min if break is still not golden brown

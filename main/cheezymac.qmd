@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Cheezy Mac 
 
@@ -45,7 +48,6 @@ editor: source
 
 ### Queso Sauce 
 
-
 To make Queso Sauce add:
 
 - &frac12; tsp chili powder
@@ -54,6 +56,3 @@ To make Queso Sauce add:
 - Black bean and cilantro (after blending)
 
   
-```{=typst}
-#pagebreak()
-```

@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Vegan Meatballs  
 
@@ -54,8 +57,3 @@ editor: source
 
 Once cool, put in freezer for storage 
  
-  
-  
-```{=typst}
-#pagebreak()
-```

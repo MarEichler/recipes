@@ -10,8 +10,11 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
-## Name 
+## Veggie Chili 
 
 | Servings | Time | Source |
 |:---|:---|:-------------------|
@@ -67,7 +70,3 @@ editor: source
 
 Good with rice or potatoes 
   
-  
-```{=typst}
-#pagebreak()
-```

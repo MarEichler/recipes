@@ -1,0 +1,41 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Sweet Squash 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 servings  | 45 min | N/A | 
+
+
+### Ingredients:
+
+- 1 delicata squash 
+- 2-3 TBSP vegan butter or coconut oil 
+- 3-4 TBSP maple syrup 
+- salt
+
+### Directions 
+
+- set oven at 375 
+- cut delicata squsah, cut in half and then into ~&frac12; inch slices 
+- melt butter/oil and mix with maple syrup 
+- coat each piece of squash in mixture of butter/oil and maple syrup 
+- put pieces on a baking sheet lined with parchment paper
+- sprinkle salt on top 
+- bake for 20 minutes 
+- take out and fip pieces 
+- make for another 12-20 minutes 

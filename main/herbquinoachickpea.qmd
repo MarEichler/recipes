@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Herbed Quinoa & Chickpea Salad
 
@@ -46,7 +49,3 @@ editor: source
 
 Last in fridge for 3 days 
 
-  
-```{=typst}
-#pagebreak()
-```

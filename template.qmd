@@ -10,6 +10,9 @@ format:
     mainfont: Ubuntu Mono
 editor: source
 ---
+```{=typst}
+#pagebreak()
+```
 
 ## Name 
 
@@ -30,7 +33,3 @@ editor: source
 - item 
 - item 
   
-  
-```{=typst}
-#pagebreak()
-```

@@ -1,0 +1,41 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Pistachio Cookies  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 6 cookies  | 30 min | unconventional baker, [unconventionalbaker.com/gluten-free-vegan-pistachio-cookies](https://www.unconventionalbaker.com/gluten-free-vegan-pistachio-cookies/) | 
+
+
+### Ingredients:
+
+- 3 TBSP raw pistachios, peeled
+- 6 TBSP white rice flour
+- 2 TBSP dark maple syrup
+- 2 TBSP smooth and creamy natural cashew butter
+- &frac14; almond extract
+- &frac18; tsp salt
+  
+### Directions 
+
+- Pre-heat oven to 350F. Line a small cookie sheet with parchment paper. Set aside.
+- Briefly process the pistachios for the coating in your food processor to form little crushed pieces. Remove the chopped pistachios from the processor and place them in a shallow bowl. Set aside. (Don't worry if you have tiny bits or pistachio dust left behind in the food processor).
+- Process all cookie ingredients in the food processor until the mixture begins to form a ball. Remove this ball from the processor and shape into a ball* of dough with your hands.
+- Divide this mixture into 6 balls of dough. Roll each one first into a ball, then flatten with your fingers to form a little "hockey puck" shape. Roll one of these bits of dough in the crushed pistachios, first just running the sides of the cookie over the pistachios and then only the top part of the cookie -- you'll need to press the dough into the pistachios very lightly as you go to make the pistachio pieces stick (note: if you press too hard you, the shape of your cookie can become distorted). Place the crusted cookie on the prepared baking tray. Repeat with the remaining cookies.
+- Bake in a pre-heated oven for approx. 9 mins. Remove from the oven and place on a cooking rack to cool off a little. Enjoy!
+
+*The texture of the dough can be different depending on the cashew butter used. For example sometimes you might get a batch that’s more “oily” other times one that’s more dry + brands vary, etc. The dough should be soft and pliable. But if the mixture feels too sticky at this point, add a bit more flour (1 teaspoon at a time) and process again to incorporate; if too dry, add a bit more maple syrup or cashew butter.
