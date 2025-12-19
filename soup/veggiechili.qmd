@@ -1,0 +1,73 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Name 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 6-8 servings  | 2-2.5 hours | Pioneer Woman, [thepioneerwoman.com/food-cooking/recipes/a11980/veggie-chili](https://www.thepioneerwoman.com/food-cooking/recipes/a11980/veggie-chili/) | 
+
+### Ingredients:
+
+- 2 TBSP olive oil
+- Group A
+  - 4 cloves garlic, minced
+  - Large onion, diced
+  - 3 bell peppers (red, yellow, orange), diced
+  - 2 carrots, peeled and diced
+  - 2 stalks celery, diced
+  - Jalapeno, seeded and diced
+- Group B
+  - 1 tsp ground oregano
+  - 1 TBSP cumin</li>
+  - 2 TBSP chili powder (more/less to taste)
+- Group C
+  - 3 cups veggie broth, I like Better than Boullian 
+  - 1 can (12-14oz) plain tomato sauce
+  - 1 can (10oz) Ro-tel or 4oz diced green chilies \& 8oz diced tomatoes
+  - &frac12; tsp salt (more/less to taste)
+- Group D
+  - Large zucchini, diced
+  - 1 can (14oz) kidney beans
+  - 1 can (14oz) pinto beans
+  - 1 can (14oz) garbanzo beans
+  - 1 can (14oz) black beans
+- &frac14; Masa (corn flour) or cornmeal
+- &frac12; cup warm water
+
+
+### Directions 
+
+- Heat 2 TBSP olive oil in large soup pot over medium heat</li>
+- Add items from group A: garlic, onion, bell peppers, carrots, celery, jalapeno  
+- Saute for 5 minutes (until starting to soften)
+- Add items from group B: oregano, cumin, chili powder 
+- Stir/cook for a few more minutes
+- Add items from group C: broth, tomato sauce, Ro-tel (or diced tomatoes and chilies), salt 
+- Bring to a boil then reduce heat to low, cover and simmer for 30 minutes 
+- Add items from group D: 4 cans of beans, zucchini 
+- Stir in, cover, and simmer for 30 more minutes
+- Mix in together:
+  * &frac14; Masa (corn flour) or cornmeal
+  * &frac12; cup warm water
+- Pour corn/water mixture into the pot and stir
+- Simmer for 15 more minutes 
+
+### Notes 
+
+Good with rice or potatoes 
+  
+  
+```{=typst}
+#pagebreak()
+```

@@ -1,0 +1,70 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Spicy Tofu Stew  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 dinner, 1-2 lunch | 60 min | The Foodie Takes Flight, [thefoodietakesflight.com/sundubu-jjigae-or-korean-soft-tofu-stew-vegan-recipe](https://thefoodietakesflight.com/sundubu-jjigae-or-korean-soft-tofu-stew-vegan-recipe/) | 
+
+
+### Ingredients:
+
+- 1&frac12; TBSP toasted sesame oil
+- Small onion, sliced
+- &frac12; cup sliced scallion or green onions
+- 2-3 cloves of garlic, minced
+- 2 TBSP gochugaro (Korean hot pepper powder)
+- 2&frac12; TBSP tamari
+- &frac34; cup vegan kimchi
+- Medium zucchini, cubed
+- 3 cups of mushrooms, best if mix, such as enoki, king oyster, shiitake
+- 3 cups water (or veggie broth)
+- &frac12; tsp salt
+- 1 pack silken tofu, cut into cubes (firm tofu works fine too) 
+- Additional veggies:
+  * bok choy (go in with zucchini)
+  * nappa cabbage (go in with zucchini)
+  * spinach (go in right before tofu)
+    
+### Directions 
+
+- Heat pot
+- One pot is hot, add:
+  * 1&frac12; TBSP toasted sesame oil
+  * Small onion, sliced
+  * &frac12; cup sliced scallion or green onions  
+  Saute for 2-3 minutes; until onion is translucent 
+- Add to pot:
+  * 2-3 cloves of garlic, minced
+  * 2 TBSP gochugaro (Korean hot pepper powder)
+  * 2&frac12; TBSP tamari   
+  Stir and cook for 2 minutes 
+- Add &frac34; cup vegan kimchi<br>Stir and cook for 2-3 minutes
+- Add 3 cups of mushrooms<br>Stir and cook for 3 minutes
+- Add zucchini cubed and mix well
+- Add 3 cups of water (or veggie broth)
+- Cover pot and leave to boil over **medium heat** for about 7 minutes; until the zucchini is cooked through
+- Taste and add salt as needed
+- Add spinach and mix in until cooked 
+- Add pack of silken tofu, cubed  
+  DO NOT MIX (silken tofu is delicate)<br>Leave to boil for 2-3 minutes
+
+### Notes
+
+Good with brown rice 
+  
+  
+```{=typst}
+#pagebreak()
+```

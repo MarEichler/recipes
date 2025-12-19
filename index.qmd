@@ -23,6 +23,19 @@ editor: source
 #pagebreak()
 ```
 
+# Favorites 
+
+- [Mushroom Stroganoff](#mushroom-stroganoff)
+- [Pesto Pasta](#pesto-pasta)
+- [Spaghetti](#spaghetti)
+- [Tofu Scramble, Eggy Sauce](#tofu-scramble-v2-eggy-sauce)
+- [Spicy Tofu Stew](#spicy-tofu-stew)
+
+
+```{=typst}
+#pagebreak()
+```
+
 # MAIN 
 
 ```{=typst}
@@ -141,6 +154,30 @@ cat(unlist(out), sep = "\n")
 
 ```{=typst}
 #pagebreak()
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("soup/chikenchili.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("soup/peanutstew.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("soup/spicytofustew.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
+out <- knitr::knit_child("soup/veggiechili.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
 ```
 
 # SIDES 

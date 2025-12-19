@@ -15,7 +15,7 @@ editor: source
 
 | Servings | Time | Source |
 |:---|:---|:-------------------|
-| #  | # min | Source, [link](url)
+| #  | # min | Source, [link](url) | 
 
 
 ### Ingredients:

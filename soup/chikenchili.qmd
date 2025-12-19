@@ -1,0 +1,57 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Chiken Chili
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 3-4   | 30 min | Vegan-ize Chicken Chili recipe from Brad Diamond, also includes edits that Dad made to recipe | 
+
+
+### Ingredients:
+
+- 1 TBSP canola or olive oil
+- 2-3 cups of fresh oyster mushrooms, bite size pieces
+- 1&frac12; tsp chili powder
+- 1 tsp cumin
+- 1 tsp paprika
+- 28oz no-salt added diced tomatoes
+- 1 14oz can of no-salted added black beans
+- 1 14oz can of no-salted added red beans
+- 4oz can minced green chilies
+- 1 cup yellow whole kernel corn
+- salt and pepper to taste
+- 2 'cans' of water (using cans from beans)
+
+### Directions 
+
+- In a pot, saute 2-3 cups of oyster mushrooms in 1 TBSP oil over medium-high heat for ~3 minutes
+- Stir in spices:
+  * 1&frac12; tsp chili powder
+  * 1 tsp cumin
+  * 1 tsp paprika  
+  Coat mushrooms and saute for additional 3-4 minutes
+- Add remaining ingredients and heat through:
+  * 28oz no-salt added diced tomatoes
+  * 1 14oz can of no-salted added black beans
+  * 1 14oz can of no-salted added red beans
+  * 4oz can minced green chilies
+  * 1 cup yellow whole kernel corn
+  * salt and pepper to taste
+  * 2 'cans' of water  
+  Cook for at least 10 minutes until heated through 
+  
+  
+```{=typst}
+#pagebreak()
+```

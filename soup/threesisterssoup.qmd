@@ -1,0 +1,66 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Name 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 dinner, 1-2 lunch | 90-120 min | Based on soup from Co-op in St Peter, MN | 
+
+
+### Ingredients:
+
+- 1 TBSP olive oil
+- 3 cloves of garlic
+- Large sweet onion</li>
+- 1&frac12; cups diced carrots
+- 1&frac12; cups diced celery
+- 3&frac12; cups diced potatoes, Prefer purple potatoes
+- 3&frac12; cups diced squash, Prefer delicata
+- 3-4 cups veggie broth
+- 14oz can of coconut milk
+- 14oz can of corn
+- 14oz can of navy beans
+- 1-2 TBSP of parsley
+- 2 tsp nutmeg<
+- Salt and pepper, to taste
+
+### Directions 
+
+- Heat 1 TBSP olive oil in large pot over medium heat
+- Add to pot: garlic, onion, salt & pepper 
+- Saute for about 5 minutes, until onions translucent
+- Add to pot: carrots and celery
+- Saute for about 3 minutes (until veggies start to soften) 
+- Add to pot: potatoes and squash 
+- Saute for about 5 minutes
+- Add to pot: veggie broth, coconut milk, nutmeg 
+- Bring to the pot to boil, then reduce heat and simmer for about 20-30 minutes (until veggies are fork tender)
+- Add to the pot: corn, navy beans, parsley, additional salt & pepper if desired 
+- Cook for a few more minutes until everything is heated through and serve
+  
+### Homemade Croutons 
+
+- cube bread
+- toss with olive oil, salt, pepper, garlic powder, onion powder 
+- bake at 350 for about 15 minutes (flip halfway through)
+
+### Squash Seeds 
+
+- toss seeds with olive oil and salt 
+- bake at 325-350 for 15-20 minutes (flip halfway to check) 
+  
+  
+```{=typst}
+#pagebreak()
+```

@@ -46,9 +46,14 @@ editor: source
 - add some additional broth 
 - add lentils with tomatoes 
 
-#### If reheating meatballs 
+#### If using meatballs 
+
+[Vegan Italian Meatballs](#vegan-meatballs)
+
+##### Reheat 
 - move frozen meatballs from freezer to fridge the night before 
 - heat in oven at 350 for 8-10 minutes 
+
 
   
 ```{=typst}

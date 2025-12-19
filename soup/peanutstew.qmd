@@ -1,0 +1,75 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+
+## Peanut Stew  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2 dinner, 2 lunch  | 60-90 min | Oh She Glows by Angela Liddon, 2014, [ohsheglows.com/book](https://ohsheglows.com/book/) | 
+
+
+### Ingredients:
+
+- 1 tsp olive oil
+- 3 cloves garlic
+- Medium sweet onion, diced
+- Red bell pepper, diced
+- Jalapeno, seeded and diced
+- Large sweet potato, peeled and cubed
+- 28oz can of diced tomatoes
+- 4 cups vegetable broth
+- 1&frac12; TBSP chili powder
+- *Optional*: 1&frac14; cayenne pepper
+- &frac12; cup peanut butter
+- 14oz can chickpeas (&frac12; cup dried)
+- 1 bunch spinach (3-5 cups)
+- Salt and peper to taste
+- Fresh cilantro and peanuts for serving
+
+### Directions 
+
+- Heat oil in large soup pot over medium heat
+- Add to the pot: 
+  * Medium sweet onion, diced
+  * 3 cloves garlic  
+  Saute for 5 minutes, until onion is translucent 
+- Add to the pot:
+  * Red bell pepper, diced
+  * Jalapeno, diced
+  * Large sweet potato, cubed
+  * 28oz can of diced tomatoes  
+  Simmer for 5 minutes
+- In a bowl, whisk
+  * &frac12; cup peanut butter
+  * 1 cup veggie broth  
+  After mixed, add to pot
+- Add to the pot:
+  * 3 cups veggie broth
+  * 1&frac12; TBSP chili powder
+  * 1&frac14; tsp cayenne pepper, if using
+- Cover soup pan iwth lid and reduce heat to medium-low. Simmer for 10-20 minutes, or until sweet potato is fork-tender.
+- Stir in:
+  * Chickpeas
+  * Spinach  
+  Stir until spinach is cooked
+- Season with salt and pepper to taste
+- Serve with cilantro and peanuts sprinkled on top
+  
+### Notes 
+
+Good with brown rice 
+  
+  
+```{=typst}
+#pagebreak()
+```
