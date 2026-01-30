@@ -1,0 +1,52 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Spinach Artichoke Dip  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 4  | 40-60 min | [The Simple Veganista](https://simple-veganista.com/vegan-spinach-artichoke-dip/)| 
+
+
+### Ingredients:
+
+- 1&frac12; cups raw cashews (soak in hot water for 5-10 minutes)
+- 1&frac12; cups plain almon dmilk 
+- 2 TBSP nutritional yeast 
+- &frac12; tsp miso 
+- 3 garlic cloves, minced (or 1&frac12; tsp garlic powder)
+- 1&frac12; tsp onion powder
+- salt and pepper to taste 
+- juice of 1 small lemon (or 1-2 tsp of apple cider vinegar) 
+- 10oz spinach (cooked, either from fresh or frozen) 
+- 1 can of artichoke hearts, chopped 
+
+
+### Directions 
+
+- heat oven to 400 degrees F
+- soak cashews 
+- drain and rinse artichokes 
+- sqeeze out extra water from cooked spinach 
+- blend cashews with all ingredients except spinach and artichokes 
+- split spinach, artichokes and cashew cheeses into 4 oven safe containers (I like having each serving size easily available for reheating) 
+- bake at 400 degrees covered for 10 min (cover with cookie sheet instead of aluminium foil) 
+- bake another 10 min uncovered 
+
+
+I like to eat with crackers or bread.  
+
+If reheat in oven -- need to set out pyrex container and let warm to room temperature before heating at 375 degrees for 10-15 minutes.  Otherwise heat up in the microwave for 2-4 minutes.  

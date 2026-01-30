@@ -237,6 +237,12 @@ out <- knitr::knit_child("side/squashseeds.qmd", quiet = TRUE, envir = environme
 cat(unlist(out), sep = "\n")
 ```
 
+```{r}
+#| results: asis
+out <- knitr::knit_child("side/spinachartichokedip.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
 ```{=typst}
 #pagebreak()
 ```

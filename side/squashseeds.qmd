@@ -14,7 +14,7 @@ editor: source
 #pagebreak()
 ```
 
-## Name 
+## Squash Seeds  
 
 | Servings | Time | Source |
 |:---|:---|:-------------------|
