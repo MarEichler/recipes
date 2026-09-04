@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.quarto 
 
 
 ## remove html/pdf except for main items 

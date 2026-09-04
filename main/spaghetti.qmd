@@ -25,7 +25,9 @@ editor: source
 
 - half an onion, or 2-3 shallots, diced 
 - 3 cloves of garlic, minced
-- 500-800g of tomatoes (usually do can of diced tomatoes or tomato sauce; mix with fresh tomoatoes) 
+- 500-800g of tomatoes 
+  * 500g of fresh tomatoes OR 
+  * 1 can of diced tomatoes & 1 can of tomato sauce 
 - Italian seasoning, basil, oregano, salt & pepper to taste  
 - large bunch of spinach 
 - 228g of spaghetti (114g per person); Bionature Gluten Free Spaghetti 
@@ -56,5 +58,19 @@ editor: source
 ##### Reheat 
 - move frozen meatballs from freezer to fridge the night before 
 - heat in oven at 350 for 8-10 minutes 
+
+
+### Timeline
+
+| Time | Item | 
+|:--|:----|
+| 00 | preheat oven (~10 min to get to 350/375) | 
+| 05 | start boiling water (~20-25 min to boiling) | 
+| 10 | put in meatballs | 
+| 25 | flip meatballs | 
+| 30 | put in pasta | 
+| 40 | remove pasta, shut off oven | K
+
+
 
 

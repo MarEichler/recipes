@@ -1,0 +1,47 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Jalapeno Poppers  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2-3  | 40 min | Source, [zardyplants.com/recipes/vegan-jalapeno-poppers](https://zardyplants.com/recipes/vegan-jalapeno-poppers/) | 
+
+
+### Ingredients:
+
+- 12 fresh jalapenos 
+- 6oz of vegan cream cheese (nuts for cheese, original cream cheese)
+- 4oz of vegan shredded cheese (vio life Mexican blend)
+- 3 TBSP chopped fresh chives (or 1 TBSP dried) 
+- 1 tsp garlic powder 
+- 1 tsp onion powder 
+- &frac13; cup bread crumbs (take heaven gf white sourdough, pulse in food processor until get crumbs) 
+
+### Directions 
+
+- preheat oven to 400 F 
+- line baking sheet with parchment paper 
+- take cream cheese out of the fridge to soften 
+- **wear gloves:** cut peppers lengthwise, scoop out seeds, cut out white membranes 
+- make filling: mix cream cheese, shredded cheese, chives, garlic powder, onion powder 
+- stuff peppers with mixture 
+- add bread crumbs on top 
+- bake for 15 minutes 
+
+
+*Original recipe uses nutritional yeast, this was skipped when we made it.*
+  

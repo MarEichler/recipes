@@ -26,11 +26,12 @@ editor: source
 
 #### Eggy Sauce 
 
-- &frac12; cup of non-dairy milk (almond or cashew milk) 
+- &frac12; cup | 120g of non-dairy milk (almond or cashew milk) 
 - 1 TBSP nutritional yeast 
-- 2 TBSP sesame paste or cashew butter
-- 2 TBSP soy sauce
-- 1 tsp miso paste
+- 2 TBSP | 20g sesame paste or cashew butter
+- 2 TBSP | 30g soy sauce
+- 1 tsp | 5-6g miso paste
+- *optional:* &frac12; tsp mushroom powder 
 - &frac14; tsp tumeric (for color) 
 - &frac12; tsp black salt
 
@@ -46,8 +47,8 @@ editor: source
 #### Carmalized Onions & Tomatoes; Potatoes
 
 - 1 large onion 
-- 300g of tomatoes, cut in half 
-- bunch of spinach 
+- 150g of tomatoes, cut in half 
+- 150g of spinach 
 - mix of potatoes, cubed 
 
 ### Directions 
@@ -63,16 +64,22 @@ editor: source
 - turn off stove, mix in kimchi
 
 
-#### Carmalized Onions & Tomatoes; Potatoes
+#### Caramelized Onions & Tomatoes; Potatoes
 
 - cook diced onions in olive oil on medium for 30-40 minutes until caramelized 
 - add tofu, spinach, eggy sauce and potatoes
 - cook on medium low until most moisture is gone 
 
-##### Potatoes 
+##### Baked Potatoes 
 - heat oven to 425
 - toss cubed potatoes with salt, pepper, garlic powder, onion powder (maybe some thyme, rosemary balsamic) 
 - put on baking sheet with parchment paper
 - cook for 15 minutes, toss/flip, cook for another 15-25 minutes 
+
+
+##### Hash Browns  
+- shred potatoes, soak in cold water, dry 
+- melt butter in pan 
+- fry potatoes with spices, salt pepper K
 
 

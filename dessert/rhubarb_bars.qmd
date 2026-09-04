@@ -1,0 +1,62 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Rhubarb Bars 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 9  | 45-50 min | Source, [naturallieplantbased.com/strawberry-rhubarb-bars/](https://naturallieplantbased.com/strawberry-rhubarb-bars/) | 
+
+
+### Ingredients:
+
+**Base + Top Layer** 
+
+- 1&frac14; cups flour (1-1 GF flour)
+- 1&frac14; cups old fashioned oats 
+- &frac12; tsp baking soda 
+- &frac14; tsp salt 
+- &frac14; cup white sugar 
+- &frac12; cup brown sugar (&frac12; cup white sugar + 1 TBSP molasses) 
+- &frac34; cup coconut oil (~150g) 
+- 2 tsp vanilla extract 
+
+
+**Filling** 
+
+- 1&frac12; cups slice strawberries or raspberries 
+- 1&frac12; cups rhubarb 
+- 1 TBSP lemon juice 
+- 1 TBSP cornstarch 
+- 1 TBSP sugar 
+- 1 TBSP maple syrup 
+
+
+
+### Directions 
+
+- preheat oven to 350 F, oil/parchment paper 8x8 glass pan 
+- combine base/top layer ingredients (start with dry and then add wet), mix until have a dough 
+- combine filling ingredients and mix 
+- pour 2/3 of base/top into pan and press down until even
+- pour filling on top of base 
+- pour remaining 1/3 of base/top 
+- bake for 50 min 
+- let cool for at least 20 min 
+
+
+Once cool, cut into bars and put into containers, leave on counter.  Good for 3-5 days.  
+  

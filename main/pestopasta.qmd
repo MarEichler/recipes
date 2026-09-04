@@ -27,7 +27,7 @@ editor: source
 - 2-3 TBSP olive oil 
 - 1 block of firm tofu, cubed  
 - pesto (0.35-0.50 lbs) 
-- 1 bunch of dino kale, finely chopped (seperate stems and leaves) 
+- 1 bunch of dino kale, finely chopped (separate stems and leaves) 
 - 300g of grape/cherry tomatoes, cut in half 
 - 1 handful of pine nuts 
 - spices: Italian, garlic powder, onion powder 
@@ -55,9 +55,10 @@ editor: source
 
 Buy from Mississippi Market (have non-dairy pesto from deli) or make from scratch: 
 
-- cashews 
-- basil
-- lemon juice
-- garlic 
+- cashews, ~40g
+- basil, ~40-50g
+- olive oil, ~40g
+- lemon juice, ~10g
+- garlic, ~8g
 - salt 
   
