@@ -215,6 +215,12 @@ cat(unlist(out), sep = "\n")
 
 ```{r}
 #| results: asis
+out <- knitr::knit_child("side/jalapeno_poppers.qmd", quiet = TRUE, envir = environment())
+cat(unlist(out), sep = "\n")
+```
+
+```{r}
+#| results: asis
 out <- knitr::knit_child("side/mexicanrice.qmd", quiet = TRUE, envir = environment())
 cat(unlist(out), sep = "\n")
 ```
@@ -251,24 +257,15 @@ cat(unlist(out), sep = "\n")
 
 ```{r}
 #| results: asis
-out <- knitr::knit_child("dessert/peanutbuttercookies.qmd", quiet = TRUE, envir = environment())
+# can't do this for others b/c of cross links 
+
+folder <- "dessert"
+files <- list.files(folder, pattern = ".qmd$")
+out <- purrr::map(
+  files, 
+  ~knitr::knit_child(file.path(folder, .x), quiet = TRUE, envir = environment())
+)
 cat(unlist(out), sep = "\n")
 ```
 
-```{r}
-#| results: asis
-out <- knitr::knit_child("dessert/pistachiocookies.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
 
-```{r}
-#| results: asis
-out <- knitr::knit_child("dessert/sweetsquash.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("dessert/worldseasiestcookies.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
