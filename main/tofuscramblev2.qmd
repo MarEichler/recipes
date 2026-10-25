@@ -18,7 +18,7 @@ editor: source
 
 | Servings | Time | Source |
 |:---|:---|:-------------------|
-| 2 servings | 45 min | Based on Okonomi Kitchen, 2020, [okonomikitchen.com/kimchi-tofu-scramble](https://www.okonomikitchen.com/kimchi-tofu-scramble) | 
+| 2 servings | 45 min | Based on Okonomi Kitchen, [okonomikitchen.com/kimchi-tofu-scramble](https://www.okonomikitchen.com/kimchi-tofu-scramble) | 
 
 ### Ingredients:
 
@@ -76,10 +76,8 @@ editor: source
 - put on baking sheet with parchment paper
 - cook for 15 minutes, toss/flip, cook for another 15-25 minutes 
 
-
 ##### Hash Browns  
 - shred potatoes, soak in cold water, dry 
-- melt butter in pan 
-- fry potatoes with spices, salt pepper K
+- melt butter in pan, fry potatoes with spices, salt pepper
 
 

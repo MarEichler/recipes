@@ -45,11 +45,9 @@ editor: source
 
 ### Directions 
 
-
 **Prep** 
 
 - Put tofu in freezer the night before, take-out in the morning and let thaw in the sink 
-- preheat oven to 400F
 - once tofu thawed, squeeze out excess water 
 - wrap in towel and press (with book or heavy pot/pan) to extract more moisture; leave for 15-20 min
 - crumble by hand into bowl 
@@ -70,12 +68,9 @@ editor: source
 - pack into baking dish (required dish that is ~4Q/4L)
 - cover with aluminum foil or lid and put in refrigerator 
 
-
 **Bake** 
 
 - cover with aluminum foil 
-- bake for 60min at 350F
-  * bake for 40-45 min covered
-  * last 15-20 min uncover to crisp up top 
+- bake for 60min at 350F (45-45min covered, last 15-20 min uncovered)
 
   
