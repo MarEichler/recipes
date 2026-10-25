@@ -11,6 +11,7 @@ format:
       y: 1cm
     fontsize: 10pt 
     mainfont: Ubuntu Mono
+    linkcolor: "#00008b"
   html: 
     toc: true
     toc-depth: 2
@@ -23,127 +24,57 @@ editor: source
 #pagebreak()
 ```
 
-# Favorites 
+<!-- this is for easier access on mobile html, which does not have TOC --> 
 
-- [Burrito Bowls](#burrito-bowls)
-- [Mushroom Stroganoff](#mushroom-stroganoff)
-- [Pesto Pasta](#pesto-pasta)
-- [Spaghetti](#spaghetti)
-- [Tofu Scramble, Eggy Sauce](#tofu-scramble-v2-eggy-sauce)
-- [Spicy Tofu Stew](#spicy-tofu-stew)
-
+- [MAIN](#main)
+- [SOUP](#soup)
+- [SIDES](#sides)
+- [DESSERT](#dessert)
 
 ```{=typst}
 #pagebreak()
 ```
 
+# Notes
+
+**Conversions** 
+
+| oz | lb | g | 
+|--:|--:|--:|
+| 16 | 1.00 | 453.6 | 
+| 1  | 0.06 | 28.3 | 
+
+
+**Measurements: Size** 
+
+| Item | oz | cups | l | 
+|:----|---:|---:|---:|
+| oxo oil container | 12 | 1.5 | 0.35 | 
+| mid white bowls | 28 | 3.5 | 0.83 | 
+
+**Measurements: Weight** 
+
+white mixing bowl --> 926 g
+
+**Time** 
+
+cold water to boil in big bot --> ~20-25 min   
+
+oven to 350F/375F --> ~10min
+
+
+```{=typst}
+#pagebreak()
+```
 # MAIN 
-
 ```{r}
 #| results: asis
-out <- knitr::knit_child("main/alfredo.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/bakedtofu.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/bibimbap.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/burritobowls.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/cheezymac.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/eggsbasil.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/herbquinoachickpea.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/mangobluequinoa.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/mushroomstroganoff.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/peanutstirfry.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/pestopasta.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/shepherdspie.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/spaghetti.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/spagsquash.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/tofuscramblev1.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/tofuscramblev2.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/tomatobasilpasta.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("main/veganmeatballs.qmd", quiet = TRUE, envir = environment())
+folder <- "main"
+files <- list.files(folder, pattern = ".qmd$")
+out <- purrr::map(
+  files, 
+  ~knitr::knit_child(file.path(folder, .x), quiet = TRUE, envir = environment())
+)
 cat(unlist(out), sep = "\n")
 ```
 
@@ -153,39 +84,40 @@ cat(unlist(out), sep = "\n")
 
 # SOUP 
 
-```{r}
-#| results: asis
-out <- knitr::knit_child("soup/chikenchili.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
+## Scrap Broth 
+
+- equal parts onion/garlic:carrot:celery 
+  * too much onion will make it bitter
+- collect onion bits & garlic skins 
+- collect scraps of carrots/celery (often have to just buy celery though b/c don't use it that much) 
+- also collect scraps: 
+  * mushroom 
+  * lemon/citrus peels 
+  * napa cabbage 
+  * zucchini 
+- put in freezer while collecting 
+
+**Cooking** 
+
+- heat oil in pot 
+- add onion/garlic scrapes and saute ~10 minutes 
+- add all other scrapes and saute for another ~10 minutes 
+- add salt while sauteing (at least 1 tsp for each ~16 oz of total scrapes) 
+- add water; fill up each container holding scrapes with water and put into pot (if have 4 16oz containers of scrapes, put 64oz of water into pot) 
+- also add: bay leave and thyme 
+- bring to a boil, cover and reduce heat for 90-120 minutes 
+- remove from heat and let cool
+- strain out scrapes and put into containers, freeze if not using within 3 days 
+
 
 ```{r}
 #| results: asis
-out <- knitr::knit_child("soup/peanutstew.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("soup/potatoleek.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("soup/spicytofustew.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("soup/threesisterssoup.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("soup/veggiechili.qmd", quiet = TRUE, envir = environment())
+folder <- "soup"
+files <- list.files(folder, pattern = ".qmd$")
+out <- purrr::map(
+  files, 
+  ~knitr::knit_child(file.path(folder, .x), quiet = TRUE, envir = environment())
+)
 cat(unlist(out), sep = "\n")
 ```
 
@@ -194,58 +126,14 @@ cat(unlist(out), sep = "\n")
 ```
 
 # SIDES 
-
 ```{r}
 #| results: asis
-out <- knitr::knit_child("side/garlicbread.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("side/hummus.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("side/kalesalad.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("side/jalapeno_poppers.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("side/mexicanrice.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("side/potatoleaves.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("side/refriedbeans.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("side/squashseeds.qmd", quiet = TRUE, envir = environment())
-cat(unlist(out), sep = "\n")
-```
-
-```{r}
-#| results: asis
-out <- knitr::knit_child("side/spinachartichokedip.qmd", quiet = TRUE, envir = environment())
+folder <- "side"
+files <- list.files(folder, pattern = ".qmd$")
+out <- purrr::map(
+  files, 
+  ~knitr::knit_child(file.path(folder, .x), quiet = TRUE, envir = environment())
+)
 cat(unlist(out), sep = "\n")
 ```
 

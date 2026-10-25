@@ -14,20 +14,39 @@ editor: source
 #pagebreak()
 ```
 
-## Baked Tofu  
+## Tofu  
+
+- before use, almost always want to press tofu
+- press tofu by wrapping up in clean dish towel and setting something heavy on top for 15-20 minutes 
+
+### Marinate Tofu 
+
+- in the morning, press and cut into cubes
+- put into a container with tamari and sesame oil
+- let marinate for 6-8 hours 
+- freezing then thawing tofu will remove additional moisture, giving the tofu a more spongy texture and will soak up more flavor 
+
+### Saute Tofu 
+
+- after pressing, cut into cubes 
+- after pan & oil is heated, add tofu to pan
+- stir until sides are lightly golden 
+- add additoinal spices/salt/pepper 
+
+### Baked Tofu 
 
 | Servings | Time | Source |
 |:-----|:---|:-------------------|
 | 2-4  | 40 min | Cookie & Kate, [cookieandkate.com/how-to-make-crispy-baked-tofu](https://cookieandkate.com/how-to-make-crispy-baked-tofu/) | 
 
-### Ingredients:
+#### Ingredients:
 
 - 1 bock tofu (16 oz, extra firm)
 - 1 TBSP sesame oil or olive oil 
 - 1 TBSP tamari 
 - 1 TBSP cornstarch or arrowroot starch 
 
-### Directions 
+#### Directions 
 
 - Preheat the oven to 400 degrees F and line a large, rimmed baking sheet with parchment paper to prevent tofu from sticking.
 - If extra firm tofu, cube (otherwise press tofu for at least 10 min) 
@@ -37,8 +56,5 @@ editor: source
 - bake for 25-30 minutes, tossing tofu half-way, until tofu is deeply golden on edges 
 - Transfer pressed tofu to medium mixing bowl and drizzle with olive oil and tamari.  Toss to combine.  Sprinkle in the starch over the tofu, and toss the tofu
 
-### Notes 
-
-Crispy tofu, often used in peanut stir fry dish
 
 

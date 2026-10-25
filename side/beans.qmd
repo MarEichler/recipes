@@ -1,45 +1,22 @@
 ---
-format: 
-  typst: 
-    toc: false 
-    echo: false 
+format:
+  typst:
+    toc: false
+    echo: false
     margin:
       x: 1cm
       y: 1cm
-    fontsize: 10pt 
+    fontsize: 10pt
     mainfont: Ubuntu Mono
 editor: source
 ---
 ```{=typst}
 #pagebreak()
 ```
-
-## Refried Beans  
-
-| Servings | Time | Source |
-|:---|:---|:-------------------|
-| ~3 cups  | 40-60 min | N/A | 
-
-
-### Ingredients:
-
-- 1 cup dry pinto beans
-- &frac12; tsp salt
-- 1&frac23; cups water 
-
-### Directions 
-
-- In the morning cover the beans with hot water, soak for 6-8 hours 
-- put beans into instant pot with 1&frac23; water and salt 
-- cook on high for 16-20 minutes, natural release of pressure (~20 minutes) 
-- blend beans & liquid for ~45-60 seconds 
-
-Can make without soaking beans by putting directly into instant pot for 60 minutes and ~3 cups of water
   
 ## Beans in Instant Pot 
 
 Source: [Spice Cravings](https://spicecravings.com/instant-pot-beans) 
-
 
 Best to soak beans for 8-12 hours. 
 I usually soak beans 6-8 hours in hot water (adding more hot water 1-2 times).  
@@ -66,3 +43,23 @@ I usually soak beans 6-8 hours in hot water (adding more hot water 1-2 times).
 | Kidney | 25 | 45 | 
 | Black | 22 | 35 | 
 | Pinto | 15 | 30 | 
+
+
+### Refried Beans  
+
+
+- In the morning cover the beans with hot water, soak for 6-8 hours 
+- put beans into instant pot with &frac12; tsp salt & 1&frac23; cups water 
+- cook on high for 16-20 minutes, natural release of pressure (~20 minutes) 
+- blend beans & liquid for ~45-60 seconds 
+
+
+### Hummus 
+
+- 1 cup dried garbanzo/chickpeas
+- 2-3 cloves of garlic
+- 4 TBSP sesame seeds
+- 1 TBSP oil (olive oil, sesame oil)
+- juice from 1 lemon
+- Salt to taste
+

@@ -1,0 +1,31 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Vegan Meringues  
+
+### Ingredients:
+
+- 2 parts aquafaba (juice from garbanzo beans can; can is better than using juice from soaking/cooking beans at home)  
+- 3 parts white sugar 
+
+### Directions 
+
+- whip aquafaba for 5 minutes 
+- whip for additional 5 minutes, adding sugar 2 TBSP at a time 
+- whip for additional 2 minutes 
+- bake for 1.5-2.5 hours at 200F
+- item 
+  

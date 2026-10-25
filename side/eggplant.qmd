@@ -1,0 +1,47 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+  
+  
+## Eggplant - Miso Glazed Baked Eggplant 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 2  | 20-30 min | Conscious Plant Kitchen, [theconsciousplantkitchen.com/miso-glazed-eggplant](https://www.theconsciousplantkitchen.com/miso-glazed-eggplant/) | 
+
+
+### Ingredients:
+
+- 2-3 eggplants (preferably Japanese eggplant) 
+- glaze 
+  - 2 TB miso (30 g)
+  - 2 tsp sesame oil (10 g) 
+  - 2 tsp maple syrup (10 g) 
+  - 1.5 tsp soy sauce/tamari (6g)
+  - 1 tsp rice vinegar (4g) 
+  - 1 tsp mirin (4 g) 
+- for cooking: sesame oil & sesame seeds 
+- for serving: green onions
+
+### Directions 
+
+- half eggplants and score diagonal lines on inside to get diamond shapes 
+- saute eggplants in oil for 2-3 minutes (inside/score face down) on medium/high 
+- flip eggplants & cover for 3-4 minutes and reduce to low/medium; set oven on broil high 
+- put eggplants on baking sheet and glaze (inside/score face up); top with sesame seeds
+- broil in oven for 4-5 minutes until glaze is bubbly 
+- top with green onions and serve 
+
+

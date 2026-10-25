@@ -1,0 +1,81 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Stuffing (Thanksgiving) 
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 4 servings  | 75-90 min | Based on Mom's Betty Crocker Cookbook & [Sam Cooks Kindness: Crispy Italian Tofu Sausage Crumbles](https://samcookskindness.com/crispy-italian-tofu-sausage-crumbles/#recipe)  | 
+
+
+### Ingredients:
+
+- 8 cups of bread, cubed (1 17oz white loaf of Heaven's Gluten-Free bread) 
+  * original recipe recommends toasting bread or cutting and leaving out for a day to dry out 
+  * skip this step because (1) gluten free bread is already pretty dry and (2) tofu crumbles don't have extra moisture/grease so we're already adding moisture with broth 
+- tofu crumbles 
+  * 1 pack tofu (14-16oz) 
+  * 2 TBSP tamari/soy sauce 
+  * 1 tsp smoked paprika 
+  * 1 tsp garlic powder
+  * 1 tsp fennel (seed or ground) 
+  * 0.5 tsp onion powder 
+  * 2 tsp oregano 
+  * 0.25 tsp red pepper flakes or cayenne (omit or add more depending on desired spice level)
+- 1 cup onion, diced 
+- 1.5 cup celery, diced 
+- 1 tsp sage (3tsp/1TBSP if fresh) 
+- 1.5 tsp thyme (4.5tsp/1.5TBSP if fresh) 
+- 1 cup butter (2 sticks, often use earth balance
+- 2 tsp salt 
+- 0.25 cup broth 
+
+### Directions 
+
+
+**Prep** 
+
+- Put tofu in freezer the night before, take-out in the morning and let thaw in the sink 
+- preheat oven to 400F
+- once tofu thawed, squeeze out excess water 
+- wrap in towel and press (with book or heavy pot/pan) to extract more moisture; leave for 15-20 min
+- crumble by hand into bowl 
+- mix tamari & spice in small dish and then add to tofu and mix thoroughly 
+- put onto lined baking sheet and bake at 400F for 20-25 min 
+- while tofu is cooking: 
+  * cut up celery/onion/bread (and spices if using fresh) 
+  * melt butter in skillet 
+  * add onion/celery and cook until soft 
+- when tofu is done add to skillet with celery/onion/butter and mix
+- add spices to skillet and mix 
+- add 1/3 of bread cubes and mix 
+- take full mixture and put into bowl with remaining 2/3 bread and mix 
+- add 1/4 broth 
+  * more/less depending on preference
+  * using tofu recipe does not have any extra moisture or grease 
+- grease pan (butter, olive oil, avocado oil, ect)
+- pack into baking dish (required dish that is ~4Q/4L)
+- cover with aluminum foil or lid and put in refrigerator 
+
+
+**Bake** 
+
+- cover with aluminum foil 
+- bake for 60min at 350F
+  * bake for 40-45 min covered
+  * last 15-20 min uncover to crisp up top 
+
+  

@@ -1,0 +1,61 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Borscht  
+
+| Servings | Time | Source |
+|:---|:---|:-------------------|
+| 4-6  | 60 min | Alissa Saenz, [www.connoisseurusveg.com/vegan-borscht](https://www.connoisseurusveg.com/vegan-borscht/#recipe) | 
+
+
+### Ingredients:
+
+- olive oil 
+- 3 medium beets, peeled & diced (~3 cups diced) 
+- 2 medium carrots, peeled and diced (~1.5 cups diced) 
+- 1 medium onion, diced 
+- 2 garlic gloves, minced 
+- 4 cups broth 
+- 2 TBSP tomato page 
+- 2 cups cabbage, finely chopped 
+- 1 medium russet potato, diced 
+  * recipe says to peel but I usually leave peels on 
+  * instead of one big potato, I will use smaller potatoes if that's what i have 
+  * ~3ish cups of diced potato 
+- 1.5 TBSP lemon juice 
+- 0.25 cup fresh dill
+- salt & pepper to taste
+- vegan source cream to taste, we like the [Forager Sour Cream](https://foragerproject.com/products/organic-dairy-free-cultured-sour-cream)
+
+### Directions 
+
+- coat pot with oil and put on medium heat 
+- when hot add: 
+  * beets
+  * carrots
+  * onion
+- cook until they start to soften (~10 min) 
+- add carglic, saute ~1 minute until fragrant 
+- stir in: 
+  * broth 
+  * tomato paste
+  * potato
+  * cabbage
+- raise heat and bring to a boil, lower heat and simmer until veggies are tender (15-20 min) 
+  * recipe says to simmer uncovered but I like to cover 
+- stir in lemon juice and dill, season with salt/pepper
+- serve with sour cream 
+  
