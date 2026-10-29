@@ -1,0 +1,66 @@
+---
+format: 
+  typst: 
+    toc: false 
+    echo: false 
+    margin:
+      x: 1cm
+      y: 1cm
+    fontsize: 10pt 
+    mainfont: Ubuntu Mono
+editor: source
+---
+```{=typst}
+#pagebreak()
+```
+
+## Pepparkaka
+
+Original recipe from Grandma who gave it to Mom.  Dad would make the dough and Mom would bring it to the cookie bake. 
+
+I often make a half-batch. 
+
+### Ingredients:
+
+- &frac12; lb butter (2 sticks); leave out to soften at room temperature, I prefer [earth balance](https://s3.amazonaws.com/grocery-project/product_images/earth-balance-buttery-sticks-56012-12906496.jpg)
+- 1&frac12; cup sugar 
+- 1 TBSP maple syrup 
+- 1 flax egg (1 TBSP flax, mix with 3 TBSP water, let sit for at least 15 min) 
+- 3&frac14; cup flour, I prefer [Bob's Red Mill Gluten Free 1 to 1 Baking Flour](https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_b48ea69e-20fe-4a73-b76f-94bc6bc8da7b.png)
+- 2 tsp baking soda 
+- 3 tsp cinnamon 
+- 3 tsp cloves 
+- 3 tsp ginger
+- zest of 1 orange rind
+- fresh orange juice from 1 orange (&frac14 cup) 
+- [parlsocker (Swedish pearl sugar)](https://larsown.com/wp-content/uploads/2022/04/85000_01-1024x1024.jpg) -- get get at Lunds and Byerlys or Kowalskis 
+
+
+
+### Directions 
+
+
+**Dough** 
+
+- make flax egg, set aside 
+- zest orange rind and squeeze orange juice, set aside 
+- sift dry ingredients together (excluding sugar), set aside 
+  * flour 
+  * baking soda 
+  * cinnamon/cloves/ginger
+- cream butter and sugar
+  * after butter is room temperature and soften 
+  * use fork to mix with sugar 
+- add syrup and flax egg, mix
+- add dry ingredients, mix 
+- add orange zest and juice, mix 
+- put dough on a piece of parchment paper and wrap up, put into air tight container and put into fridge -- leave overnight or at least for 4 hours 
+
+**Bake**
+
+- roll out on back of wooden cutting board
+- need to use a lot of flour so it doesn't stick 
+- roll out very thin and put onto baking sheet covered with parchment paper 
+- sprinkle with pearl sugar and use little spoon to lightly press into dough 
+- bake at 325F for 8-9 minutes 
+  

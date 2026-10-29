@@ -23,7 +23,7 @@ editor: source
 
 ### Ingredients:
 
-- 2 coups finely ground almond flour
+- 2 cups finely ground almond flour
 - &frac12; tsp baking powder 
 - &frac13; cup dark maple syrup 
 - 2 tsp vanilla extract 

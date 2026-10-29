@@ -20,20 +20,12 @@ format:
 editor: source
 ---
 
-```{=typst}
-#pagebreak()
-```
-
 <!-- this is for easier access on mobile html, which does not have TOC --> 
 
 - [MAIN](#main)
 - [SOUP](#soup)
 - [SIDES](#sides)
-- [DESSERT](#dessert)
-
-```{=typst}
-#pagebreak()
-```
+- [DESSERT](#dessert) 
 
 # Notes
 
